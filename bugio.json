@@ -1,12 +1,463 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "20:00 11/07/2026",
+  "last_updated": "20:10 11/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
-      "channels": []
+      "channels": [
+        {
+          "id": "bugio-4c173c199608",
+          "name": "⚽ Auda vs Fk Liepaja | Cup | 22:00 11/07",
+          "tournament": "Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/4135.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/661.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4135.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-4c173c199608",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-4c173c199608",
+                  "name": "Auda vs Fk Liepaja",
+                  "streams": [
+                    {
+                      "id": "bugio-4c173c199608",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-f74f60d695b7",
+          "name": "⚽ Tromso vs Valerenga | Eliteserien | 23:00 11/07",
+          "tournament": "Eliteserien",
+          "logo_nha": "https://media.api-sports.io/football/teams/325.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/326.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/325.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-f74f60d695b7",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-f74f60d695b7",
+                  "name": "Tromso vs Valerenga",
+                  "streams": [
+                    {
+                      "id": "bugio-f74f60d695b7",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-55c73c26a191",
+          "name": "⚽ Spain U19 vs Germany U19 | UEFA U19 Championship | 01:00 12/07",
+          "tournament": "UEFA U19 Championship",
+          "logo_nha": "https://media.api-sports.io/football/teams/10349.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10336.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/10349.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-55c73c26a191",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-55c73c26a191",
+                  "name": "Spain U19 vs Germany U19",
+                  "streams": [
+                    {
+                      "id": "bugio-55c73c26a191",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-931b18e4ec2d",
+          "name": "⚽ Norway vs England | World Cup | 04:00 12/07",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/1090.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1090.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-931b18e4ec2d",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-931b18e4ec2d",
+                  "name": "Norway vs England",
+                  "streams": [
+                    {
+                      "id": "bugio-931b18e4ec2d",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-4388630d4055",
+          "name": "⚽ Argentina vs Switzerland | World Cup | 08:00 12/07",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/26.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/15.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/26.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-4388630d4055",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-4388630d4055",
+                  "name": "Argentina vs Switzerland",
+                  "streams": [
+                    {
+                      "id": "bugio-4388630d4055",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-f499fa772947",
+          "name": "⚽ Suva vs Ba | Premier FIJI | 10:30 12/07",
+          "tournament": "Premier FIJI",
+          "logo_nha": "https://static.flashscore.com/res/image/data/OfgzOfCa-2BpUuOMf.png",
+          "logo_khach": "https://static.flashscore.com/res/image/data/EmFQvcYg-WWJXc2sm.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://static.flashscore.com/res/image/data/OfgzOfCa-2BpUuOMf.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-f499fa772947",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-f499fa772947",
+                  "name": "Suva vs Ba",
+                  "streams": [
+                    {
+                      "id": "bugio-f499fa772947",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-478a65e270ff",
+          "name": "⚽ Fc Seoul vs Gangwon Fc | K League 1 | 17:30 12/07",
+          "tournament": "K League 1",
+          "logo_nha": "https://media.api-sports.io/football/teams/2766.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2746.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2766.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-478a65e270ff",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-478a65e270ff",
+                  "name": "Fc Seoul vs Gangwon Fc",
+                  "streams": [
+                    {
+                      "id": "bugio-478a65e270ff",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-7381b3b5ce7e",
+          "name": "⚽ Shanghai Sipg vs Dalian Zhixing | Super League | 18:35 12/07",
+          "tournament": "Super League",
+          "logo_nha": "https://media.api-sports.io/football/teams/836.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/21263.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/836.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-7381b3b5ce7e",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-7381b3b5ce7e",
+                  "name": "Shanghai Sipg vs Dalian Zhixing",
+                  "streams": [
+                    {
+                      "id": "bugio-7381b3b5ce7e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-d0c9a2dfc1a0",
+          "name": "⚽ Hammarby Ff vs Kalmar Ff | Allsvenskan | 19:00 12/07",
+          "tournament": "Allsvenskan",
+          "logo_nha": "https://media.api-sports.io/football/teams/363.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/374.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/363.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-d0c9a2dfc1a0",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-d0c9a2dfc1a0",
+                  "name": "Hammarby Ff vs Kalmar Ff",
+                  "streams": [
+                    {
+                      "id": "bugio-d0c9a2dfc1a0",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-5c636a81dc35",
+          "name": "⚽ Operario-Pr vs Novorizontino | Serie B | 21:00 12/07",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/1223.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/7834.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1223.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-5c636a81dc35",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-5c636a81dc35",
+                  "name": "Operario-Pr vs Novorizontino",
+                  "streams": [
+                    {
+                      "id": "bugio-5c636a81dc35",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
