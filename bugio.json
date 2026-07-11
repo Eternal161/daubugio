@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "18:09 11/07/2026",
+  "last_updated": "18:10 11/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-5d90cd70c443",
-          "name": "⚽ Ulsan Hyundai Fc vs Jeonbuk Motors | K League 1 | Hiệp 1 - 39'",
+          "name": "⚽ Ulsan Hyundai Fc vs Jeonbuk Motors | K League 1 | Hiệp 1 - 41'",
           "tournament": "K League 1",
           "logo_nha": "https://media.api-sports.io/football/teams/2767.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2762.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3ea476a4c6",
+                          "id": "lnk-6f6aad8f36",
                           "name": "BLV Phi MC",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh0gr4uqmtt8y41hcjzgazdnc3ofitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=ef9bd117c3dab2470bf1f7e6-178376819484204&wsIPSercert=2b9d3a333af6c63fa7c82fd66f526db6&wsBindIP=2&wsserid=1168041136565896200"
+                          "url": "https://tfxh0gr4uqmtt8y41hcjsgyzdnctufitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=2da5aa785b400d749e5c0d1c-178376826360977&wsIPSercert=1f5bddfc8f97a133f2839ed153b6d2c0&wsBindIP=2&wsserid=1168283323355153405"
                         }
                       ]
                     }
