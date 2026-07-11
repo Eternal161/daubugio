@@ -1,0 +1,471 @@
+{
+  "id": "bugio",
+  "name": "Bù  Giờ TV",
+  "last_updated": "17:53 11/07/2026",
+  "groups": [
+    {
+      "id": "live",
+      "name": "🔴 Live bóng đá Bù  Giờ",
+      "channels": [
+        {
+          "id": "bugio-5d90cd70c443",
+          "name": "⚽ Ulsan Hyundai Fc vs Jeonbuk Motors | Không rõ",
+          "tournament": "",
+          "logo_nha": "https://media.api-sports.io/football/teams/2767.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2762.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2767.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-5d90cd70c443",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-5d90cd70c443",
+                  "name": "Ulsan Hyundai Fc vs Jeonbuk Motors",
+                  "streams": [
+                    {
+                      "id": "bugio-5d90cd70c443",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d70ba9ebd2",
+                          "name": "BLV Phi MC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxh0gr4uqmtt8y41hcjsgyzdnctufitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=2da5aa785b400d749e5c0d1c-178376722385138&wsIPSercert=42aa783a15ef11a66adb5f179b01d7ad&wsBindIP=2&wsserid=1168283323355153405"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-594020bdca31",
+          "name": "⚽ Trung Quốc vs Cộng Hòa Dominica | Không rõ",
+          "tournament": "",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy3k0D9-4anl3-N7HUq1SHJvS0mGhnD79U1NBH0PygUw&s=10",
+          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEn0qXUmTyITNptnKImc-cYmfonzKo0rMecIjz1oO22w&s=10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy3k0D9-4anl3-N7HUq1SHJvS0mGhnD79U1NBH0PygUw&s=10",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-594020bdca31",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-594020bdca31",
+                  "name": "Trung Quốc vs Cộng Hòa Dominica",
+                  "streams": [
+                    {
+                      "id": "bugio-594020bdca31",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-ce8cc19d5c6f",
+          "name": "⚽ Chengdu Better City vs Chongqing Tongliang Long | Không rõ",
+          "tournament": "",
+          "logo_nha": "https://media.api-sports.io/football/teams/5648.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/21262.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5648.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-ce8cc19d5c6f",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-ce8cc19d5c6f",
+                  "name": "Chengdu Better City vs Chongqing Tongliang Long",
+                  "streams": [
+                    {
+                      "id": "bugio-ce8cc19d5c6f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-4c173c199608",
+          "name": "⚽ Auda vs Fk Liepaja | Không rõ",
+          "tournament": "",
+          "logo_nha": "https://media.api-sports.io/football/teams/4135.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/661.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4135.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-4c173c199608",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-4c173c199608",
+                  "name": "Auda vs Fk Liepaja",
+                  "streams": [
+                    {
+                      "id": "bugio-4c173c199608",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-f74f60d695b7",
+          "name": "⚽ Tromso vs Valerenga | Không rõ",
+          "tournament": "",
+          "logo_nha": "https://media.api-sports.io/football/teams/325.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/326.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/325.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-f74f60d695b7",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-f74f60d695b7",
+                  "name": "Tromso vs Valerenga",
+                  "streams": [
+                    {
+                      "id": "bugio-f74f60d695b7",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-55c73c26a191",
+          "name": "⚽ Spain U19 vs Germany U19 | Không rõ",
+          "tournament": "",
+          "logo_nha": "https://media.api-sports.io/football/teams/10349.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10336.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/10349.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-55c73c26a191",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-55c73c26a191",
+                  "name": "Spain U19 vs Germany U19",
+                  "streams": [
+                    {
+                      "id": "bugio-55c73c26a191",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-931b18e4ec2d",
+          "name": "⚽ Norway vs England | Không rõ",
+          "tournament": "",
+          "logo_nha": "https://media.api-sports.io/football/teams/1090.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/10.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1090.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-931b18e4ec2d",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-931b18e4ec2d",
+                  "name": "Norway vs England",
+                  "streams": [
+                    {
+                      "id": "bugio-931b18e4ec2d",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-4388630d4055",
+          "name": "⚽ Argentina vs Switzerland | Không rõ",
+          "tournament": "",
+          "logo_nha": "https://media.api-sports.io/football/teams/26.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/15.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/26.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-4388630d4055",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-4388630d4055",
+                  "name": "Argentina vs Switzerland",
+                  "streams": [
+                    {
+                      "id": "bugio-4388630d4055",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-f499fa772947",
+          "name": "⚽ Suva vs Ba | Không rõ",
+          "tournament": "",
+          "logo_nha": "https://static.flashscore.com/res/image/data/OfgzOfCa-2BpUuOMf.png",
+          "logo_khach": "https://static.flashscore.com/res/image/data/EmFQvcYg-WWJXc2sm.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://static.flashscore.com/res/image/data/OfgzOfCa-2BpUuOMf.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-f499fa772947",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-f499fa772947",
+                  "name": "Suva vs Ba",
+                  "streams": [
+                    {
+                      "id": "bugio-f499fa772947",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-478a65e270ff",
+          "name": "⚽ Fc Seoul vs Gangwon Fc | Không rõ",
+          "tournament": "",
+          "logo_nha": "https://media.api-sports.io/football/teams/2766.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2746.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2766.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-478a65e270ff",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-478a65e270ff",
+                  "name": "Fc Seoul vs Gangwon Fc",
+                  "streams": [
+                    {
+                      "id": "bugio-478a65e270ff",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
