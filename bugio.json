@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "05:11 12/07/2026",
+  "last_updated": "05:20 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-89375a138abf",
-          "name": "⚽ Norway vs England | World Cup | Hiệp 2 - 47'",
+          "name": "⚽ Norway vs England | World Cup | Hiệp 2 - 57'",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1090.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0ab3cf4c53",
+                          "id": "lnk-b77eecaf84",
                           "name": "BLV Chim Nhỏ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh0gr4uqmtt8y41hcjsgyzdnctufitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=4f5605f94f7e28b0acf59620-178380787654453&wsIPSercert=daed7a24cf395d13faba5de53f044888&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfxh4gchnhcjo8rzdrpjtfa414au8ptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=2405a2a24215f54d1eb1e38c-178380846431422&wsIPSercert=66d6b893b245deeb663d39e5bc99ce9e&wsBindIP=2&wsserid=1168168154453604765"
                         }
                       ]
                     }
