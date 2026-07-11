@@ -1,57 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "22:01 11/07/2026",
+  "last_updated": "22:11 11/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-55c73c26a191",
-          "name": "⚽ Spain U19 vs Germany U19 | UEFA U19 Championship | 01:00 12/07",
-          "tournament": "UEFA U19 Championship",
-          "logo_nha": "https://media.api-sports.io/football/teams/10349.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/10336.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10349.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-55c73c26a191",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-55c73c26a191",
-                  "name": "Spain U19 vs Germany U19",
-                  "streams": [
-                    {
-                      "id": "bugio-55c73c26a191",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-931b18e4ec2d",
           "name": "⚽ Norway vs England | World Cup | 04:00 12/07",
@@ -448,6 +403,51 @@
                   "streams": [
                     {
                       "id": "bugio-d926ad9053c9",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-d23a2bab5c84",
+          "name": "⚽ Chicago Fire Ii vs New York Rb Ii | MLS Next Pro | 03:00 13/07",
+          "tournament": "MLS Next Pro",
+          "logo_nha": "https://media.api-sports.io/football/teams/4040.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4004.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4040.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-d23a2bab5c84",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-d23a2bab5c84",
+                  "name": "Chicago Fire Ii vs New York Rb Ii",
+                  "streams": [
+                    {
+                      "id": "bugio-d23a2bab5c84",
                       "name": "F",
                       "stream_links": []
                     }
