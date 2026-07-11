@@ -1,57 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "21:10 11/07/2026",
+  "last_updated": "21:20 11/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-f74f60d695b7",
-          "name": "⚽ Tromso vs Valerenga | Eliteserien | 23:00 11/07",
-          "tournament": "Eliteserien",
-          "logo_nha": "https://media.api-sports.io/football/teams/325.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/326.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/325.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-f74f60d695b7",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-f74f60d695b7",
-                  "name": "Tromso vs Valerenga",
-                  "streams": [
-                    {
-                      "id": "bugio-f74f60d695b7",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-55c73c26a191",
           "name": "⚽ Spain U19 vs Germany U19 | UEFA U19 Championship | 01:00 12/07",
@@ -448,6 +403,51 @@
                   "streams": [
                     {
                       "id": "bugio-640400cfa5c4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-d926ad9053c9",
+          "name": "⚽ São Bernardo vs Cuiaba | Serie B | 02:00 13/07",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/7865.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1193.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/7865.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-d926ad9053c9",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-d926ad9053c9",
+                  "name": "São Bernardo vs Cuiaba",
+                  "streams": [
+                    {
+                      "id": "bugio-d926ad9053c9",
                       "name": "F",
                       "stream_links": []
                     }
