@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "06:41 12/07/2026",
+  "last_updated": "06:50 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-89375a138abf",
-          "name": "⚽ Norway vs England | World Cup | Hiệp phụ - 90+'",
+          "name": "⚽ Norway vs England | World Cup | Kết thúc",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1090.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c54ea4efb8",
+                          "id": "lnk-f4bec62810",
                           "name": "BLV Chim Nhỏ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh4gchnhcjo8rzdrpjtfa414au8ptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=2405a2a24215f54d1eb1e38c-178381326918438&wsIPSercert=c71c077206808e31a3e1dd803ed461bf&wsBindIP=2&wsserid=1168168154453604765"
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8"
                         }
                       ]
                     }
@@ -99,21 +99,21 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-584d10f213",
+                          "id": "lnk-7a176b2bc9",
                           "name": "BLV Tiểu Trà Đá",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh4gchnhcjo8rzdrpjtfa414au8ptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8?wsSession=2405a2a24215f54d1eb1e38c-178381327594557&wsIPSercert=c71c077206808e31a3e1dd803ed461bf&wsBindIP=2&wsserid=1168168154453604765"
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-fb0b55cc55",
+                          "id": "lnk-9fc6886861",
                           "name": "BLV Phi MC",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxh4gchnhcjo8rzdrpjtfa414au8ptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=00a62cc6094de4f7b329cc7e-178381328223277&wsIPSercert=c71c077206808e31a3e1dd803ed461bf&wsBindIP=2&wsserid=1168168154451507561"
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-dcc791fca5",
+                          "id": "lnk-adcd9b175e",
                           "name": "BLV Max",
                           "type": "hls",
                           "default": false,
