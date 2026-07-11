@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "19:40 11/07/2026",
+  "last_updated": "19:50 11/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-09765da5d2",
+                          "id": "lnk-595641fe27",
                           "name": "BLV Phi MC",
                           "type": "hls",
                           "default": true,
@@ -99,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-04969cb3e5",
+                          "id": "lnk-d0505533d9",
                           "name": "BLV Chim Nhỏ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh1gr4uqmtt8y41hcjwgwzdocjpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=fe98348b1e299f1542a9c7d2-178377366298039&wsIPSercert=89c894c562aec6c5a8b086d5275bfdd4&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfxh1gr4uqmtt8y41hcjz8rzdeqjpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=0ab5b71b14aba07355916d00-178377426416081&wsIPSercert=6f17195d619dafd7abbc425060133abb&wsBindIP=2&wsserid=1168176346315811943"
                         }
                       ]
                     }
@@ -115,7 +115,7 @@
         },
         {
           "id": "bugio-ce8cc19d5c6f",
-          "name": "⚽ Chengdu Better City vs Chongqing Tongliang Long | Super League | Hiệp 1 - 39'",
+          "name": "⚽ Chengdu Better City vs Chongqing Tongliang Long | Super League | Giữa hiệp",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/5648.png",
           "logo_khach": "https://media.api-sports.io/football/teams/21262.png",
@@ -152,11 +152,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f945367301",
+                          "id": "lnk-7565f1f083",
                           "name": "BLV Tiểu Trà Đá",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh1gr4uqmtt8y41hcjwgwzdocjpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8?wsSession=616f653cb9a9bacc0da12063-178377366961248&wsIPSercert=89c894c562aec6c5a8b086d5275bfdd4&wsBindIP=2&wsserid=1168176581102008440"
+                          "url": "https://tfxh1gr4uqmtt8y41hcjz8rzdeqjpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8?wsSession=44b615ebde68479962db17db-178377427094613&wsIPSercert=6f17195d619dafd7abbc425060133abb&wsBindIP=2&wsserid=1168214263213094505"
                         }
                       ]
                     }
