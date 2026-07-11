@@ -1,57 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "21:01 11/07/2026",
+  "last_updated": "21:10 11/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-4c173c199608",
-          "name": "⚽ Auda vs Fk Liepaja | Cup | 22:00 11/07",
-          "tournament": "Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/4135.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/661.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/4135.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-4c173c199608",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-4c173c199608",
-                  "name": "Auda vs Fk Liepaja",
-                  "streams": [
-                    {
-                      "id": "bugio-4c173c199608",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-f74f60d695b7",
           "name": "⚽ Tromso vs Valerenga | Eliteserien | 23:00 11/07",
@@ -448,6 +403,51 @@
                   "streams": [
                     {
                       "id": "bugio-5c636a81dc35",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-640400cfa5c4",
+          "name": "⚽ Antofagasta vs Cobresal | Copa Chile | 23:30 12/07",
+          "tournament": "Copa Chile",
+          "logo_nha": "https://media.api-sports.io/football/teams/2327.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2331.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2327.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-640400cfa5c4",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-640400cfa5c4",
+                  "name": "Antofagasta vs Cobresal",
+                  "streams": [
+                    {
+                      "id": "bugio-640400cfa5c4",
                       "name": "F",
                       "stream_links": []
                     }
