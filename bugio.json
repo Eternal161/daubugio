@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "06:20 12/07/2026",
+  "last_updated": "06:31 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-bb06406da8",
+                          "id": "lnk-da711d0648",
                           "name": "BLV Chim Nhỏ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh1gr3uomttgr31hcj3fa3deqbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=2405a2a24215f54d1eb1e38c-178381206283527&wsIPSercert=d30c1b99fd1008cc14c75de89508aec0&wsBindIP=2&wsserid=1168168154453604765"
+                          "url": "https://tfxh0gr4uqmtt8y41hcjw8yzdnpjufitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=43280c1c975363fe81a8d8d5-178381266790285&wsIPSercert=d396cc77c6672213c3ca368275f47ddd&wsBindIP=2&wsserid=1168202392933970899"
                         }
                       ]
                     }
@@ -99,21 +99,21 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9770f54c09",
+                          "id": "lnk-e851ca9879",
                           "name": "BLV Tiểu Trà Đá",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh1gr3uomttgr31hcj3fa3deqbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8?wsSession=2405a2a24215f54d1eb1e38c-178381206886198&wsIPSercert=d30c1b99fd1008cc14c75de89508aec0&wsBindIP=2&wsserid=1168168154453604765"
+                          "url": "https://tfxh0gr4uqmtt8y41hcjw8yzdnpjufitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8?wsSession=3ccefa48e510df8195afcf92-178381267437470&wsIPSercert=d396cc77c6672213c3ca368275f47ddd&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-7680746988",
+                          "id": "lnk-07d54fb187",
                           "name": "BLV Phi MC",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxh1gr3uomttgr31hcj3fa3deqbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=00a62cc6094de4f7b329cc7e-178381207551158&wsIPSercert=d30c1b99fd1008cc14c75de89508aec0&wsBindIP=2&wsserid=1168168154451507561"
+                          "url": "https://tfxh0gr4uqmtt8y41hcjw8yzdnpjufitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=43280c1c975363fe81a8d8d5-178381268100175&wsIPSercert=d396cc77c6672213c3ca368275f47ddd&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-c6338bc413",
+                          "id": "lnk-d1e1b4bcca",
                           "name": "BLV Max",
                           "type": "hls",
                           "default": false,
