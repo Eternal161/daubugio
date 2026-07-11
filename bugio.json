@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "19:20 11/07/2026",
+  "last_updated": "19:31 11/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-5d90cd70c443",
-          "name": "⚽ Ulsan Hyundai Fc vs Jeonbuk Motors | K League 1 | Hiệp 2 - 88'",
+          "name": "⚽ Ulsan Hyundai Fc vs Jeonbuk Motors | K League 1 | Hiệp 2 - 90+'",
           "tournament": "K League 1",
           "logo_nha": "https://media.api-sports.io/football/teams/2767.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2762.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f6066fcde3",
+                          "id": "lnk-98f734085f",
                           "name": "BLV Phi MC",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh1gr4uqmtt8y41hcjsgyzdkcjpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=2da5aa785b400d749e5c0d1c-178377246764554&wsIPSercert=770df994afc3d9ba769e702b5704e1ed&wsBindIP=2&wsserid=1168283323355153405"
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8"
                         }
                       ]
                     }
@@ -99,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0391fb8c69",
+                          "id": "lnk-f07fd65737",
                           "name": "BLV Chim Nhỏ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh1gr4uqmtt8y41hcjsgyzdkcjpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=4f5605f94f7e28b0acf59620-178377247337630&wsIPSercert=770df994afc3d9ba769e702b5704e1ed&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfxh1gr4uqmtt8y41hcjsgyzdkcjpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=4f5605f94f7e28b0acf59620-178377308179573&wsIPSercert=394afb1fd8855470f949131a111e9dba&wsBindIP=2&wsserid=1168283477179400067"
                         }
                       ]
                     }
@@ -115,7 +115,7 @@
         },
         {
           "id": "bugio-ce8cc19d5c6f",
-          "name": "⚽ Chengdu Better City vs Chongqing Tongliang Long | Super League | Hiệp 1 - 18'",
+          "name": "⚽ Chengdu Better City vs Chongqing Tongliang Long | Super League | Hiệp 1 - 29'",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/5648.png",
           "logo_khach": "https://media.api-sports.io/football/teams/21262.png",
@@ -152,11 +152,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e5beacad90",
+                          "id": "lnk-f76e3be7cc",
                           "name": "BLV Tiểu Trà Đá",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh1gr4uqmtt8y41hcjsgyzdkcjpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8?wsSession=2c0dcc630448cd4edfe0db70-178377248022250&wsIPSercert=770df994afc3d9ba769e702b5704e1ed&wsBindIP=2&wsserid=1168283476624541134"
+                          "url": "https://tfxh1gr4uqmtt8y41hcjsgyzdkcjpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8?wsSession=2c0dcc630448cd4edfe0db70-178377308884229&wsIPSercert=394afb1fd8855470f949131a111e9dba&wsBindIP=2&wsserid=1168283476624541134"
                         }
                       ]
                     }
