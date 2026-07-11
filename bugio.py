@@ -57,7 +57,7 @@ def get_final_logo(team_name: str, site_logo: str) -> str:
     return f"https://ui-avatars.com/api/?name={initials}&size=200&background=1565C0&color=ffffff&bold=true"
 
 # =========================================================
-# JS: EXTRACT DATA (ĐÃ FIX LỖI TÊN GIẢI)
+# JS: EXTRACT DATA (ĐÃ FIX LẤY THỜI GIAN CHUẨN 100%)
 # =========================================================
 JS_EXTRACT = """
 () => {
@@ -73,9 +73,19 @@ JS_EXTRACT = """
         seen.add(href);
 
         let league = '';
-        // 💡 ĐÃ FIX: Đổi từ 'p.text-sm' sang 'span.flex-1.truncate' theo chuẩn Bù Giờ TV
+        let timeStr = ''; // 💡 Khởi tạo biến thời gian
+        
         const leagueEl = a.querySelector('span.flex-1.truncate');
-        if (leagueEl) league = clean(leagueEl.innerText);
+        if (leagueEl) {
+            league = clean(leagueEl.innerText);
+            
+            // 💡 TUYỆT CHIÊU: Lấy thẻ nằm NGAY CẠNH tên giải (chính là khung chứa thời gian)
+            const timeEl = leagueEl.nextElementSibling;
+            if (timeEl) {
+                // Lấy chữ bên trong và thay thế dấu xuống dòng (nếu có) bằng dấu cách
+                timeStr = clean(timeEl.innerText).replace(/\\n/g, ' '); 
+            }
+        }
 
         let home = '', away = '', homeLogo = '', awayLogo = '';
         
@@ -91,13 +101,6 @@ JS_EXTRACT = """
             const imgKhach = gridBox.children[2].querySelector('img');
             if (imgNha) homeLogo = imgNha.src;
             if (imgKhach) awayLogo = imgKhach.src;
-        }
-
-        let timeStr = '';
-        // Lưu ý: Nếu thời gian của Bù Giờ TV bị thiếu, hãy kiểm tra lại class ở đây
-        const timeSpans = a.querySelectorAll('span.bg-yellow-300, span[class*="18px"]');
-        if (timeSpans.length >= 2) {
-            timeStr = clean(timeSpans[0].innerText) + ' ' + clean(timeSpans[1].innerText);
         }
 
         const isLive = clean(a.innerText).toLowerCase().includes('trực tiếp') || clean(a.innerText).toLowerCase().includes('hiệp');
