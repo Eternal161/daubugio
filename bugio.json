@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "18:50 11/07/2026",
+  "last_updated": "19:01 11/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-5d90cd70c443",
-          "name": "⚽ Ulsan Hyundai Fc vs Jeonbuk Motors | K League 1 | Hiệp 2 - 58'",
+          "name": "⚽ Ulsan Hyundai Fc vs Jeonbuk Motors | K League 1 | Hiệp 2 - 68'",
           "tournament": "K League 1",
           "logo_nha": "https://media.api-sports.io/football/teams/2767.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2762.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-778e8c2374",
+                          "id": "lnk-6bb0dc0ff7",
                           "name": "BLV Phi MC",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh0gr3uomttgr31hcj18yzdncbifitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=65a5b8624eae5cde6a31c001-178377066721857&wsIPSercert=9fbaf76a03c1de62d9ad7a63ef7d8046&wsBindIP=2&wsserid=1168243344275968966"
+                          "url": "https://tfxh1gr3uomttgr31hcj3fa3deqbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=00a62cc6094de4f7b329cc7e-178377126848815&wsIPSercert=5b79f5de107e5ca0f49b4d74bb002566&wsBindIP=2&wsserid=1168168154451507561"
                         }
                       ]
                     }
@@ -99,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f62272c592",
+                          "id": "lnk-5ef6f663ff",
                           "name": "BLV Chim Nhỏ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh0gr3uomttgr31hcj18yzdncbifitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=a1500acb86577c25c51bd3d6-178377067355578&wsIPSercert=9fbaf76a03c1de62d9ad7a63ef7d8046&wsBindIP=2&wsserid=1168243256673555874"
+                          "url": "https://tfxh1gr3uomttgr31hcj3fa3deqbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=2405a2a24215f54d1eb1e38c-178377127477935&wsIPSercert=5b79f5de107e5ca0f49b4d74bb002566&wsBindIP=2&wsserid=1168168154453604765"
                         }
                       ]
                     }
@@ -152,11 +152,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f15661a325",
+                          "id": "lnk-a112777a9a",
                           "name": "BLV Tiểu Trà Đá",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh0gr3uomttgr31hcj18yzdncbifitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8?wsSession=128e4e2e1189c7ae165e181d-178377068035734&wsIPSercert=9fbaf76a03c1de62d9ad7a63ef7d8046&wsBindIP=2&wsserid=1168243343857585137"
+                          "url": "https://tfxh1gr3uomttgr31hcj3fa3deqbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8?wsSession=2405a2a24215f54d1eb1e38c-178377128159202&wsIPSercert=5b79f5de107e5ca0f49b4d74bb002566&wsBindIP=2&wsserid=1168168154453604765"
                         }
                       ]
                     }
