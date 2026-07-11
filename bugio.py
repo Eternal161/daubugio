@@ -57,7 +57,7 @@ def get_final_logo(team_name: str, site_logo: str) -> str:
     return f"https://ui-avatars.com/api/?name={initials}&size=200&background=1565C0&color=ffffff&bold=true"
 
 # =========================================================
-# JS: EXTRACT DATA (ĐÃ LỌC SẠCH CHỮ "ĐẶT CƯỢC")
+# JS: EXTRACT DATA (ĐÃ FIX LỖI TÊN GIẢI)
 # =========================================================
 JS_EXTRACT = """
 () => {
@@ -73,7 +73,8 @@ JS_EXTRACT = """
         seen.add(href);
 
         let league = '';
-        const leagueEl = a.querySelector('p.text-sm');
+        // 💡 ĐÃ FIX: Đổi từ 'p.text-sm' sang 'span.flex-1.truncate' theo chuẩn Bù Giờ TV
+        const leagueEl = a.querySelector('span.flex-1.truncate');
         if (leagueEl) league = clean(leagueEl.innerText);
 
         let home = '', away = '', homeLogo = '', awayLogo = '';
@@ -93,6 +94,7 @@ JS_EXTRACT = """
         }
 
         let timeStr = '';
+        // Lưu ý: Nếu thời gian của Bù Giờ TV bị thiếu, hãy kiểm tra lại class ở đây
         const timeSpans = a.querySelectorAll('span.bg-yellow-300, span[class*="18px"]');
         if (timeSpans.length >= 2) {
             timeStr = clean(timeSpans[0].innerText) + ' ' + clean(timeSpans[1].innerText);
@@ -100,13 +102,10 @@ JS_EXTRACT = """
 
         const isLive = clean(a.innerText).toLowerCase().includes('trực tiếp') || clean(a.innerText).toLowerCase().includes('hiệp');
 
-        // 💡 FIX LỖI: Dọn dẹp sạch sẽ tên BLV
         let blvName = "BLV Mặc định";
         const allSpans = Array.from(a.querySelectorAll('div, span, p'));
-        // Dùng reverse() để tìm thẻ con sâu nhất, tránh dính text của thẻ cha
         const blvEl = allSpans.reverse().find(el => clean(el.innerText).toUpperCase().startsWith('BLV '));
         if (blvEl) {
-            // Chém bay chữ Đặt cược nếu lỡ dính vào
             blvName = clean(blvEl.innerText).replace(/Đặt cược/gi, '').trim();
         }
 
@@ -117,7 +116,6 @@ JS_EXTRACT = """
     return results;
 }
 """
-
 # =========================================================
 # CAPTURE STREAM (BẮT LINK M3U8 CỦA Bù  Giờ)
 # =========================================================
