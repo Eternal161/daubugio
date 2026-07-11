@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "03:51 12/07/2026",
+  "last_updated": "04:01 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5a6ffaf723",
+                          "id": "lnk-ddc9e204a8",
                           "name": "BLV Chim Nhỏ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh0gr4uqmtt8y41hcjsgyzdnpbwfitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=4f5605f94f7e28b0acf59620-178380307034014&wsIPSercert=c9e87e5dd7ce66ebc0bb615c7a3653e6&wsBindIP=2&wsserid=1168283477179400067"
+                          "url": "https://tfxh0gr4uqmtt8y41hcjw8yzdnpjufitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=43280c1c975363fe81a8d8d5-178380368246855&wsIPSercert=62ef1e53e6025f1b9c7d883a9bf42cea&wsBindIP=2&wsserid=1168202392933970899"
                         }
                       ]
                     }
