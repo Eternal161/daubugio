@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "05:31 12/07/2026",
+  "last_updated": "05:41 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-89375a138abf",
-          "name": "⚽ Norway vs England | World Cup | Hiệp 2 - 67'",
+          "name": "⚽ Norway vs England | World Cup | Hiệp 2 - 77'",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1090.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8bcbe629ce",
+                          "id": "lnk-b0a3539c5e",
                           "name": "BLV Chim Nhỏ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh1gr3uomttgr31hcj3fa3deqbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=2405a2a24215f54d1eb1e38c-178380906982172&wsIPSercert=9406c4929dce5c5038e9f2109b298bc9&wsBindIP=2&wsserid=1168168154453604765"
+                          "url": "https://tfxh1gr4uqmtt8y41hcjz8rzd1pbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=6dc55f48a79b9811d37124c0-178380967192357&wsIPSercert=74eb20ea4a463f6b8cb4d616ac923221&wsBindIP=2&wsserid=1168176337057324681"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "bugio-4388630d4055",
-          "name": "⚽ Argentina vs Switzerland | World Cup | 08:00 12/07",
+          "name": "⚽ Argentina vs Switzerland | World Cup | Đang diễn ra",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/26.png",
           "logo_khach": "https://media.api-sports.io/football/teams/15.png",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,29 @@
                     {
                       "id": "bugio-4388630d4055",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-af5b5013f0",
+                          "name": "BLV Tiểu Trà Đá",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxh1gr4uqmtt8y41hcjz8rzd1pbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8?wsSession=6dc55f48a79b9811d37124c0-178380967829387&wsIPSercert=74eb20ea4a463f6b8cb4d616ac923221&wsBindIP=2&wsserid=1168176337057324681"
+                        },
+                        {
+                          "id": "lnk-bd96eaadb7",
+                          "name": "BLV Phi MC",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfxh1gr4uqmtt8y41hcjz8rzd1pbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=6dc55f48a79b9811d37124c0-178380968509501&wsIPSercert=74eb20ea4a463f6b8cb4d616ac923221&wsBindIP=2&wsserid=1168176337057324681"
+                        },
+                        {
+                          "id": "lnk-101ffaeacf",
+                          "name": "BLV Max",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
