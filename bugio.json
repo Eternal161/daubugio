@@ -1,14 +1,14 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "00:50 12/07/2026",
+  "last_updated": "01:00 12/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
         {
-          "id": "bugio-931b18e4ec2d",
+          "id": "bugio-89375a138abf",
           "name": "⚽ Norway vs England | World Cup | 04:00 12/07",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1090.png",
@@ -34,15 +34,15 @@
           ],
           "sources": [
             {
-              "id": "bugio-931b18e4ec2d",
+              "id": "bugio-89375a138abf",
               "name": "Bù  Giờ TV",
               "contents": [
                 {
-                  "id": "bugio-931b18e4ec2d",
+                  "id": "bugio-89375a138abf",
                   "name": "Norway vs England",
                   "streams": [
                     {
-                      "id": "bugio-931b18e4ec2d",
+                      "id": "bugio-89375a138abf",
                       "name": "F",
                       "stream_links": []
                     }
