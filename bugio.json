@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "18:04 11/07/2026",
+  "last_updated": "18:09 11/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-5d90cd70c443",
-          "name": "⚽ Ulsan Hyundai Fc vs Jeonbuk Motors | K League 1 | Không rõ",
+          "name": "⚽ Ulsan Hyundai Fc vs Jeonbuk Motors | K League 1 | Hiệp 1 - 39'",
           "tournament": "K League 1",
           "logo_nha": "https://media.api-sports.io/football/teams/2767.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2762.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e981a2340c",
+                          "id": "lnk-3ea476a4c6",
                           "name": "BLV Phi MC",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxh0gr4uqmtt8y41hcjsgyzdnpbafitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=70418a798d1db99935744f9e-178376788067173&wsIPSercert=42aa783a15ef11a66adb5f179b01d7ad&wsBindIP=2&wsserid=1168231589586498745"
+                          "url": "https://tfxh0gr4uqmtt8y41hcjzgazdnc3ofitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=ef9bd117c3dab2470bf1f7e6-178376819484204&wsIPSercert=2b9d3a333af6c63fa7c82fd66f526db6&wsBindIP=2&wsserid=1168041136565896200"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "bugio-594020bdca31",
-          "name": "⚽ Trung Quốc vs Cộng Hòa Dominica | Nations League Women | Không rõ",
+          "name": "⚽ Trung Quốc vs Cộng Hòa Dominica | Nations League Women | 19:00 11/07",
           "tournament": "Nations League Women",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy3k0D9-4anl3-N7HUq1SHJvS0mGhnD79U1NBH0PygUw&s=10",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEn0qXUmTyITNptnKImc-cYmfonzKo0rMecIjz1oO22w&s=10",
@@ -107,7 +107,7 @@
         },
         {
           "id": "bugio-ce8cc19d5c6f",
-          "name": "⚽ Chengdu Better City vs Chongqing Tongliang Long | Super League | Không rõ",
+          "name": "⚽ Chengdu Better City vs Chongqing Tongliang Long | Super League | 19:00 11/07",
           "tournament": "Super League",
           "logo_nha": "https://media.api-sports.io/football/teams/5648.png",
           "logo_khach": "https://media.api-sports.io/football/teams/21262.png",
@@ -152,7 +152,7 @@
         },
         {
           "id": "bugio-4c173c199608",
-          "name": "⚽ Auda vs Fk Liepaja | Cup | Không rõ",
+          "name": "⚽ Auda vs Fk Liepaja | Cup | 22:00 11/07",
           "tournament": "Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/4135.png",
           "logo_khach": "https://media.api-sports.io/football/teams/661.png",
@@ -197,7 +197,7 @@
         },
         {
           "id": "bugio-f74f60d695b7",
-          "name": "⚽ Tromso vs Valerenga | Eliteserien | Không rõ",
+          "name": "⚽ Tromso vs Valerenga | Eliteserien | 23:00 11/07",
           "tournament": "Eliteserien",
           "logo_nha": "https://media.api-sports.io/football/teams/325.png",
           "logo_khach": "https://media.api-sports.io/football/teams/326.png",
@@ -242,7 +242,7 @@
         },
         {
           "id": "bugio-55c73c26a191",
-          "name": "⚽ Spain U19 vs Germany U19 | UEFA U19 Championship | Không rõ",
+          "name": "⚽ Spain U19 vs Germany U19 | UEFA U19 Championship | 01:00 12/07",
           "tournament": "UEFA U19 Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/10349.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10336.png",
@@ -287,7 +287,7 @@
         },
         {
           "id": "bugio-931b18e4ec2d",
-          "name": "⚽ Norway vs England | World Cup | Không rõ",
+          "name": "⚽ Norway vs England | World Cup | 04:00 12/07",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/1090.png",
           "logo_khach": "https://media.api-sports.io/football/teams/10.png",
@@ -332,7 +332,7 @@
         },
         {
           "id": "bugio-4388630d4055",
-          "name": "⚽ Argentina vs Switzerland | World Cup | Không rõ",
+          "name": "⚽ Argentina vs Switzerland | World Cup | 08:00 12/07",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/26.png",
           "logo_khach": "https://media.api-sports.io/football/teams/15.png",
@@ -377,7 +377,7 @@
         },
         {
           "id": "bugio-f499fa772947",
-          "name": "⚽ Suva vs Ba | Premier FIJI | Không rõ",
+          "name": "⚽ Suva vs Ba | Premier FIJI | 10:30 12/07",
           "tournament": "Premier FIJI",
           "logo_nha": "https://static.flashscore.com/res/image/data/OfgzOfCa-2BpUuOMf.png",
           "logo_khach": "https://static.flashscore.com/res/image/data/EmFQvcYg-WWJXc2sm.png",
@@ -422,7 +422,7 @@
         },
         {
           "id": "bugio-478a65e270ff",
-          "name": "⚽ Fc Seoul vs Gangwon Fc | K League 1 | Không rõ",
+          "name": "⚽ Fc Seoul vs Gangwon Fc | K League 1 | 17:30 12/07",
           "tournament": "K League 1",
           "logo_nha": "https://media.api-sports.io/football/teams/2766.png",
           "logo_khach": "https://media.api-sports.io/football/teams/2746.png",
