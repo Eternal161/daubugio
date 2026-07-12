@@ -1,12 +1,102 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "22:01 12/07/2026",
+  "last_updated": "22:10 12/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
+        {
+          "id": "bugio-90c52b31c435",
+          "name": "⚽ Philippines U18 vs Bahrain U18 | Nations League Women | 00:00 13/07",
+          "tournament": "Nations League Women",
+          "logo_nha": "https://static.flashscore.com/res/image/data/xM6ieGyS-pxNrJDua.png",
+          "logo_khach": "https://static.flashscore.com/res/image/data/8bil7gxS-n7hSU0Yg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://static.flashscore.com/res/image/data/xM6ieGyS-pxNrJDua.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-90c52b31c435",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-90c52b31c435",
+                  "name": "Philippines U18 vs Bahrain U18",
+                  "streams": [
+                    {
+                      "id": "bugio-90c52b31c435",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-9e0b52612322",
+          "name": "⚽ South Korea U18 vs Saudi Arabia U18 | Nations League Women | 00:30 13/07",
+          "tournament": "Nations League Women",
+          "logo_nha": "https://img0.aiscore.com/volleyball/team/604a26fb4f696d522d464fc2ff0919de.png!w60",
+          "logo_khach": "https://img0.aiscore.com/volleyball/team/ff392d69660a8445af4b87c249ef3098.png!w60",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img0.aiscore.com/volleyball/team/604a26fb4f696d522d464fc2ff0919de.png!w60",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-9e0b52612322",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-9e0b52612322",
+                  "name": "South Korea U18 vs Saudi Arabia U18",
+                  "streams": [
+                    {
+                      "id": "bugio-9e0b52612322",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
         {
           "id": "bugio-d2afbfa75dbc",
           "name": "⚽ Serbia vs Netherlands | Nations League Women | 01:00 13/07",
@@ -233,6 +323,51 @@
           ]
         },
         {
+          "id": "bugio-980e916bc219",
+          "name": "⚽ Kyrgyzstan U18 vs Thailand U18 | Nations League Women | 15:30 13/07",
+          "tournament": "Nations League Women",
+          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-TP1xJx31Arc7IWJFgHRpIEljNusWRw7MdLIIgbwcMg&s",
+          "logo_khach": "https://www.forebet.com/images/icons-volleyball/2617.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-TP1xJx31Arc7IWJFgHRpIEljNusWRw7MdLIIgbwcMg&s",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-980e916bc219",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-980e916bc219",
+                  "name": "Kyrgyzstan U18 vs Thailand U18",
+                  "streams": [
+                    {
+                      "id": "bugio-980e916bc219",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "bugio-5bca0ff79eae",
           "name": "⚽ Campuchia W vs Timor Leste W | Asean Championship Nữ | 15:45 13/07",
           "tournament": "Asean Championship Nữ",
@@ -313,141 +448,6 @@
                   "streams": [
                     {
                       "id": "bugio-2672c1554786",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-ee348c3f9a18",
-          "name": "⚽ Ugyen Academy vs Transport United | Premier Bhutan | 19:00 13/07",
-          "tournament": "Premier Bhutan",
-          "logo_nha": "https://static.flashscore.com/res/image/data/ncii97xS-4z9KzNso.png",
-          "logo_khach": "https://static.flashscore.com/res/image/data/Iupdi3YA-YidiLdrL.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://static.flashscore.com/res/image/data/ncii97xS-4z9KzNso.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-ee348c3f9a18",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-ee348c3f9a18",
-                  "name": "Ugyen Academy vs Transport United",
-                  "streams": [
-                    {
-                      "id": "bugio-ee348c3f9a18",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-7f77a41e2400",
-          "name": "⚽ Nữ Singapore vs Nữ Lào | Asean Championship Nữ | 19:45 13/07",
-          "tournament": "Asean Championship Nữ",
-          "logo_nha": "https://mediares.thethao247.vn/res/image/data/YJN4hmHG-Qq89lvZJ.png",
-          "logo_khach": "https://mediares.thethao247.vn/res/image/data/4pXwrxZg-I5chyk0E.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://mediares.thethao247.vn/res/image/data/YJN4hmHG-Qq89lvZJ.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-7f77a41e2400",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-7f77a41e2400",
-                  "name": "Nữ Singapore vs Nữ Lào",
-                  "streams": [
-                    {
-                      "id": "bugio-7f77a41e2400",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-26fbeb53623e",
-          "name": "⚽ Reyady Abaseya vs Racing | Premier League | 21:00 13/07",
-          "tournament": "Premier League",
-          "logo_nha": "https://media.api-sports.io/football/teams/22812.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/4572.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/22812.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-26fbeb53623e",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-26fbeb53623e",
-                  "name": "Reyady Abaseya vs Racing",
-                  "streams": [
-                    {
-                      "id": "bugio-26fbeb53623e",
                       "name": "F",
                       "stream_links": []
                     }
