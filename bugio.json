@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "00:50 13/07/2026",
+  "last_updated": "01:01 13/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-242d97f962",
+                          "id": "lnk-7746298c92",
                           "name": "BLV Pháo",
                           "type": "hls",
                           "default": true,
@@ -99,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-05eb9cecb4",
+                          "id": "lnk-1eb199c586",
                           "name": "BLV Tiểu Mèo",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxi0gr4uqmtt8y41hcjsgyzdnctafitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8?wsSession=08f8f874e4058e28a5266a6a-178387866654058&wsIPSercert=060354a733ac95a8c67c34e21f5402c9&wsBindIP=2&wsserid=1168283476606715287"
+                          "url": "https://tfxi0gr4uqmtt8y41hcjsgyzdnpbwfitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8?wsSession=08f8f874e4058e28a5266a6a-178387928497317&wsIPSercert=ca624d9f1ca66a176671331f1fb6b691&wsBindIP=2&wsserid=1168283476606715287"
                         }
                       ]
                     }
