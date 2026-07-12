@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "08:51 12/07/2026",
+  "last_updated": "09:01 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-00ee0321f8",
+                          "id": "lnk-d4479bb3fa",
                           "name": "BLV Max",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxi0gr3uomttgr31hcj18yzdnct1fitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=6ab06dd5a811324f39bf1655-178382107579533&wsIPSercert=08d765d098898f88d609e441e5622605&wsBindIP=2&wsserid=1168243343860730937"
+                          "url": "https://tfxi0gr4uqmtt8y41hcjw8yzdnpjufitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=43280c1c975363fe81a8d8d5-178382167445821&wsIPSercert=c53e5649459eebb382243938983e0b48&wsBindIP=2&wsserid=1168202392933970899"
                         }
                       ]
                     }
