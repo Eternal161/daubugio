@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "10:01 12/07/2026",
+  "last_updated": "10:10 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-d9dc38ce9b32",
-          "name": "⚽ Argentina vs Switzerland | World Cup | Hiệp 2 - 90+'",
+          "name": "⚽ Argentina vs Switzerland | World Cup | Hiệp phụ - 90+'",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/26.png",
           "logo_khach": "https://media.api-sports.io/football/teams/15.png",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c140861fbc",
+                          "id": "lnk-8e67e45d35",
                           "name": "BLV Max",
                           "type": "hls",
                           "default": true,
@@ -62,7 +62,7 @@
         },
         {
           "id": "bugio-f499fa772947",
-          "name": "⚽ Suva vs Ba | Premier FIJI | 10:30 12/07",
+          "name": "⚽ Suva vs Ba | Premier FIJI | Đang diễn ra - 10:30",
           "tournament": "Premier FIJI",
           "logo_nha": "https://static.flashscore.com/res/image/data/OfgzOfCa-2BpUuOMf.png",
           "logo_khach": "https://static.flashscore.com/res/image/data/EmFQvcYg-WWJXc2sm.png",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,15 @@
                     {
                       "id": "bugio-f499fa772947",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-1c2114ec93",
+                          "name": "BLV Mao Từn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxi1gr4uqmtt8y41hcjwgwzdocjpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8?wsSession=fe98348b1e299f1542a9c7d2-178382586813655&wsIPSercert=3f2ac58d2455f0185aa3883a3c778c70&wsBindIP=2&wsserid=1168176581104105640"
+                        }
+                      ]
                     }
                   ]
                 }
