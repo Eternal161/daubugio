@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "20:41 12/07/2026",
+  "last_updated": "20:51 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e0c92b618e",
+                          "id": "lnk-3ef4b77e02",
                           "name": "BLV Pháo",
                           "type": "hls",
                           "default": true,
@@ -99,7 +99,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c2798458c0",
+                          "id": "lnk-9b497adfcf",
                           "name": "BLV Max",
                           "type": "hls",
                           "default": true,
@@ -152,7 +152,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-41b09c3f6a",
+                          "id": "lnk-d07e96a09d",
                           "name": "BLV Tiểu Mèo",
                           "type": "hls",
                           "default": true,
@@ -168,7 +168,7 @@
         },
         {
           "id": "bugio-80c767d5c264",
-          "name": "⚽ Sportivo San Juan vs Marin | USL League Two | 09:00 13/07",
+          "name": "⚽ Sportivo San Juan vs Marin | USL League Two | Đang diễn ra",
           "tournament": "USL League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/10490.png",
           "logo_khach": "https://media.api-sports.io/football/teams/18899.png",
@@ -185,10 +185,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -203,7 +203,15 @@
                     {
                       "id": "bugio-80c767d5c264",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-35b6a7b311",
+                          "name": "BLV Mao Từn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxi3gr4dymttgwanhc3sfa4urmmnc7sg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178386428772490&wsIPSercert=3eadf6d07ca7b20d46433338a3e902f5&wsBindIP=2&wsserid=1177063474761571144"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -213,7 +221,7 @@
         },
         {
           "id": "bugio-5bca0ff79eae",
-          "name": "⚽ Campuchia W vs Timor Leste W | Asean Championship Nữ | 15:45 13/07",
+          "name": "⚽ Campuchia W vs Timor Leste W | Asean Championship Nữ | Đang diễn ra - 15:45",
           "tournament": "Asean Championship Nữ",
           "logo_nha": "https://img0.aiscore.com/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w60",
           "logo_khach": "https://img0.aiscore.com/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png!w60",
@@ -230,10 +238,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -248,7 +256,15 @@
                     {
                       "id": "bugio-5bca0ff79eae",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-fe6f435116",
+                          "name": "BLV Tiểu Trà Đá",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -258,7 +274,7 @@
         },
         {
           "id": "bugio-2672c1554786",
-          "name": "⚽ Ningbo Professional vs Foshan Nanshi | League One China | 18:00 13/07",
+          "name": "⚽ Ningbo Professional vs Foshan Nanshi | League One China | Đang diễn ra - 18:00",
           "tournament": "League One China",
           "logo_nha": "https://img0.aiscore.com/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png!w60",
           "logo_khach": "https://img0.aiscore.com/football/team/2612e942c2ee9018e485e756b48fbcc8.png!w60",
@@ -275,10 +291,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -293,7 +309,15 @@
                     {
                       "id": "bugio-2672c1554786",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-4dd50bac82",
+                          "name": "BLV Max",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -303,7 +327,7 @@
         },
         {
           "id": "bugio-ee348c3f9a18",
-          "name": "⚽ Ugyen Academy vs Transport United | Premier Bhutan | 19:00 13/07",
+          "name": "⚽ Ugyen Academy vs Transport United | Premier Bhutan | Đang diễn ra - 19:00",
           "tournament": "Premier Bhutan",
           "logo_nha": "https://static.flashscore.com/res/image/data/ncii97xS-4z9KzNso.png",
           "logo_khach": "https://static.flashscore.com/res/image/data/Iupdi3YA-YidiLdrL.png",
@@ -320,10 +344,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -338,7 +362,15 @@
                     {
                       "id": "bugio-ee348c3f9a18",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-e499cdafda",
+                          "name": "BLV Mao Từn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxi3gr4dymttgwanhc3sfa4urmmnc7sg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178386430680108&wsIPSercert=3eadf6d07ca7b20d46433338a3e902f5&wsBindIP=2&wsserid=1177063474761571144"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -348,7 +380,7 @@
         },
         {
           "id": "bugio-7f77a41e2400",
-          "name": "⚽ Nữ Singapore vs Nữ Lào | Asean Championship Nữ | 19:45 13/07",
+          "name": "⚽ Nữ Singapore vs Nữ Lào | Asean Championship Nữ | Đang diễn ra - 19:45",
           "tournament": "Asean Championship Nữ",
           "logo_nha": "https://mediares.thethao247.vn/res/image/data/YJN4hmHG-Qq89lvZJ.png",
           "logo_khach": "https://mediares.thethao247.vn/res/image/data/4pXwrxZg-I5chyk0E.png",
@@ -365,10 +397,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -383,7 +415,15 @@
                     {
                       "id": "bugio-7f77a41e2400",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-1ecc1b1051",
+                          "name": "BLV Phi MC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -393,7 +433,7 @@
         },
         {
           "id": "bugio-26fbeb53623e",
-          "name": "⚽ Reyady Abaseya vs Racing | Premier League | 21:00 13/07",
+          "name": "⚽ Reyady Abaseya vs Racing | Premier League | Đang diễn ra",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/22812.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4572.png",
@@ -410,10 +450,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -428,7 +468,15 @@
                     {
                       "id": "bugio-26fbeb53623e",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-b4173e2e25",
+                          "name": "BLV Chim Nhỏ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
