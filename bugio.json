@@ -1,163 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "01:31 13/07/2026",
+  "last_updated": "01:40 13/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-9e0b52612322",
-          "name": "⚽ South Korea U18 vs Saudi Arabia U18 | Nations League Women | Đang diễn ra - 00:30",
-          "tournament": "Nations League Women",
-          "logo_nha": "https://img0.aiscore.com/volleyball/team/604a26fb4f696d522d464fc2ff0919de.png!w60",
-          "logo_khach": "https://img0.aiscore.com/volleyball/team/ff392d69660a8445af4b87c249ef3098.png!w60",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img0.aiscore.com/volleyball/team/604a26fb4f696d522d464fc2ff0919de.png!w60",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-9e0b52612322",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-9e0b52612322",
-                  "name": "South Korea U18 vs Saudi Arabia U18",
-                  "streams": [
-                    {
-                      "id": "bugio-9e0b52612322",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-368f1b70af",
-                          "name": "BLV Pháo",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxi4gchnhcjo8rzdrpjtfa314au8ptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8?wsSession=57088f3cd5f87cc826484c92-178388107215546&wsIPSercert=8660c050a2535dc43f695b21c9613c06&wsBindIP=2&wsserid=1168168154459896377"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-d2afbfa75dbc",
-          "name": "⚽ Serbia vs Netherlands | Nations League Women | Đang diễn ra - 01:00",
-          "tournament": "Nations League Women",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS7USpe96X0T9QxejRy8mJ36xXjVbS8uB9ig8qhz3KqA&s",
-          "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUvItW_qz14E-Zi_rKyCTJ7yRoZe7ZPoXZLfFPutp7kg&s",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS7USpe96X0T9QxejRy8mJ36xXjVbS8uB9ig8qhz3KqA&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-d2afbfa75dbc",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-d2afbfa75dbc",
-                  "name": "Serbia vs Netherlands",
-                  "streams": [
-                    {
-                      "id": "bugio-d2afbfa75dbc",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f8161a9b3b",
-                          "name": "BLV Tiểu Mèo",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxi4gchnhcjo8rzdrpjtfa314au8ptwzc3jqxfozr5udctznh5djq31o.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8?wsSession=2f799863f55cde7f365f1337-178388107835531&wsIPSercert=8660c050a2535dc43f695b21c9613c06&wsBindIP=2&wsserid=1168168154460945005"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-d926ad9053c9",
-          "name": "⚽ São Bernardo vs Cuiaba | Serie B | 02:00 13/07",
-          "tournament": "Serie B",
-          "logo_nha": "https://media.api-sports.io/football/teams/7865.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1193.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/7865.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-d926ad9053c9",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-d926ad9053c9",
-                  "name": "São Bernardo vs Cuiaba",
-                  "streams": [
-                    {
-                      "id": "bugio-d926ad9053c9",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-d23a2bab5c84",
           "name": "⚽ Chicago Fire Ii vs New York Rb Ii | MLS Next Pro | 03:00 13/07",
@@ -284,6 +133,96 @@
                   "streams": [
                     {
                       "id": "bugio-80c767d5c264",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-c0e8d6c1b270",
+          "name": "⚽ Philippines U18 vs Bahrain U18 | Nations League Women | 12:00 13/07",
+          "tournament": "Nations League Women",
+          "logo_nha": "https://static.flashscore.com/res/image/data/xM6ieGyS-pxNrJDua.png",
+          "logo_khach": "https://static.flashscore.com/res/image/data/8bil7gxS-n7hSU0Yg.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://static.flashscore.com/res/image/data/xM6ieGyS-pxNrJDua.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-c0e8d6c1b270",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-c0e8d6c1b270",
+                  "name": "Philippines U18 vs Bahrain U18",
+                  "streams": [
+                    {
+                      "id": "bugio-c0e8d6c1b270",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-c2f98d7cd342",
+          "name": "⚽ South Korea U18 vs Saudi Arabia U18 | Nations League Women | 12:30 13/07",
+          "tournament": "Nations League Women",
+          "logo_nha": "https://img0.aiscore.com/volleyball/team/604a26fb4f696d522d464fc2ff0919de.png!w60",
+          "logo_khach": "https://img0.aiscore.com/volleyball/team/ff392d69660a8445af4b87c249ef3098.png!w60",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img0.aiscore.com/volleyball/team/604a26fb4f696d522d464fc2ff0919de.png!w60",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-c2f98d7cd342",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-c2f98d7cd342",
+                  "name": "South Korea U18 vs Saudi Arabia U18",
+                  "streams": [
+                    {
+                      "id": "bugio-c2f98d7cd342",
                       "name": "F",
                       "stream_links": []
                     }
@@ -464,6 +403,51 @@
                   "streams": [
                     {
                       "id": "bugio-10b7b3515c58",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-f27ad2e95d81",
+          "name": "⚽ Japan U18 vs Australia U18 | Nations League Women | 18:30 13/07",
+          "tournament": "Nations League Women",
+          "logo_nha": "https://img0.aiscore.com/football/team/962538cccefe2f3c95d40f66ed2bfb71.png!w60",
+          "logo_khach": "https://img0.aiscore.com/football/team/2d8fe42de2f833581faa077f788329fa.png!w60",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img0.aiscore.com/football/team/962538cccefe2f3c95d40f66ed2bfb71.png!w60",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-f27ad2e95d81",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-f27ad2e95d81",
+                  "name": "Japan U18 vs Australia U18",
+                  "streams": [
+                    {
+                      "id": "bugio-f27ad2e95d81",
                       "name": "F",
                       "stream_links": []
                     }
