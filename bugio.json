@@ -1,57 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "13:11 12/07/2026",
+  "last_updated": "13:21 12/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-7381b3b5ce7e",
-          "name": "⚽ Shanghai Sipg vs Dalian Zhixing | Super League | 18:35 12/07",
-          "tournament": "Super League",
-          "logo_nha": "https://media.api-sports.io/football/teams/836.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/21263.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/836.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-7381b3b5ce7e",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-7381b3b5ce7e",
-                  "name": "Shanghai Sipg vs Dalian Zhixing",
-                  "streams": [
-                    {
-                      "id": "bugio-7381b3b5ce7e",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-d0c9a2dfc1a0",
           "name": "⚽ Hammarby Ff vs Kalmar Ff | Allsvenskan | 19:00 12/07",
@@ -448,6 +403,51 @@
                   "streams": [
                     {
                       "id": "bugio-2672c1554786",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-ee348c3f9a18",
+          "name": "⚽ Ugyen Academy vs Transport United | Premier Bhutan | 19:00 13/07",
+          "tournament": "Premier Bhutan",
+          "logo_nha": "https://static.flashscore.com/res/image/data/ncii97xS-4z9KzNso.png",
+          "logo_khach": "https://static.flashscore.com/res/image/data/Iupdi3YA-YidiLdrL.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://static.flashscore.com/res/image/data/ncii97xS-4z9KzNso.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-ee348c3f9a18",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-ee348c3f9a18",
+                  "name": "Ugyen Academy vs Transport United",
+                  "streams": [
+                    {
+                      "id": "bugio-ee348c3f9a18",
                       "name": "F",
                       "stream_links": []
                     }
