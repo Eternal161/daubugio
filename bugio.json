@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "23:31 12/07/2026",
+  "last_updated": "23:41 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-90c52b31c435",
-          "name": "⚽ Philippines U18 vs Bahrain U18 | Nations League Women | 00:00 13/07",
+          "name": "⚽ Philippines U18 vs Bahrain U18 | Nations League Women | Đang diễn ra - 00:00",
           "tournament": "Nations League Women",
           "logo_nha": "https://static.flashscore.com/res/image/data/xM6ieGyS-pxNrJDua.png",
           "logo_khach": "https://static.flashscore.com/res/image/data/8bil7gxS-n7hSU0Yg.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "bugio-90c52b31c435",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-250543f536",
+                          "name": "BLV Chim Nhỏ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
