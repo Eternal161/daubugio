@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "20:51 12/07/2026",
+  "last_updated": "21:01 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3ef4b77e02",
+                          "id": "lnk-fd7a179d65",
                           "name": "BLV Pháo",
                           "type": "hls",
                           "default": true,
@@ -99,7 +99,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9b497adfcf",
+                          "id": "lnk-18591b475e",
                           "name": "BLV Max",
                           "type": "hls",
                           "default": true,
@@ -152,7 +152,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d07e96a09d",
+                          "id": "lnk-b2222afdc4",
                           "name": "BLV Tiểu Mèo",
                           "type": "hls",
                           "default": true,
@@ -185,10 +185,10 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "🔴 Chờ stream",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#ff6600"
             }
           ],
           "sources": [
@@ -203,15 +203,7 @@
                     {
                       "id": "bugio-80c767d5c264",
                       "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-35b6a7b311",
-                          "name": "BLV Mao Từn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxi3gr4dymttgwanhc3sfa4urmmnc7sg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178386428772490&wsIPSercert=3eadf6d07ca7b20d46433338a3e902f5&wsBindIP=2&wsserid=1177063474761571144"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -238,10 +230,10 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "🔴 Chờ stream",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#ff6600"
             }
           ],
           "sources": [
@@ -256,15 +248,7 @@
                     {
                       "id": "bugio-5bca0ff79eae",
                       "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fe6f435116",
-                          "name": "BLV Tiểu Trà Đá",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -291,10 +275,10 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "🔴 Chờ stream",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#ff6600"
             }
           ],
           "sources": [
@@ -309,15 +293,7 @@
                     {
                       "id": "bugio-2672c1554786",
                       "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4dd50bac82",
-                          "name": "BLV Max",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -344,10 +320,10 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "🔴 Chờ stream",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#ff6600"
             }
           ],
           "sources": [
@@ -362,15 +338,7 @@
                     {
                       "id": "bugio-ee348c3f9a18",
                       "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e499cdafda",
-                          "name": "BLV Mao Từn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxi3gr4dymttgwanhc3sfa4urmmnc7sg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178386430680108&wsIPSercert=3eadf6d07ca7b20d46433338a3e902f5&wsBindIP=2&wsserid=1177063474761571144"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -397,10 +365,10 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "🔴 Chờ stream",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#ff6600"
             }
           ],
           "sources": [
@@ -415,15 +383,7 @@
                     {
                       "id": "bugio-7f77a41e2400",
                       "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1ecc1b1051",
-                          "name": "BLV Phi MC",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -470,7 +430,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b4173e2e25",
+                          "id": "lnk-ddcc370797",
                           "name": "BLV Chim Nhỏ",
                           "type": "hls",
                           "default": true,
