@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "21:01 12/07/2026",
+  "last_updated": "21:10 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-d926ad9053c9",
-          "name": "⚽ São Bernardo vs Cuiaba | Serie B | Đang diễn ra",
+          "name": "⚽ São Bernardo vs Cuiaba | Serie B | 02:00 13/07",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/7865.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1193.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -44,15 +44,7 @@
                     {
                       "id": "bugio-d926ad9053c9",
                       "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fd7a179d65",
-                          "name": "BLV Pháo",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -62,7 +54,7 @@
         },
         {
           "id": "bugio-d23a2bab5c84",
-          "name": "⚽ Chicago Fire Ii vs New York Rb Ii | MLS Next Pro | Đang diễn ra",
+          "name": "⚽ Chicago Fire Ii vs New York Rb Ii | MLS Next Pro | 03:00 13/07",
           "tournament": "MLS Next Pro",
           "logo_nha": "https://media.api-sports.io/football/teams/4040.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4004.png",
@@ -79,10 +71,10 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -97,15 +89,7 @@
                     {
                       "id": "bugio-d23a2bab5c84",
                       "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-18591b475e",
-                          "name": "BLV Max",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -115,7 +99,7 @@
         },
         {
           "id": "bugio-0c4a9b4e5232",
-          "name": "⚽ Cf Montreal vs Vancouver Fc | Canadian Championship | Đang diễn ra",
+          "name": "⚽ Cf Montreal vs Vancouver Fc | Canadian Championship | 06:30 13/07",
           "tournament": "Canadian Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/1614.png",
           "logo_khach": "https://media.api-sports.io/football/teams/20881.png",
@@ -132,10 +116,10 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -150,15 +134,7 @@
                     {
                       "id": "bugio-0c4a9b4e5232",
                       "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b2222afdc4",
-                          "name": "BLV Tiểu Mèo",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -168,7 +144,7 @@
         },
         {
           "id": "bugio-80c767d5c264",
-          "name": "⚽ Sportivo San Juan vs Marin | USL League Two | Đang diễn ra",
+          "name": "⚽ Sportivo San Juan vs Marin | USL League Two | 09:00 13/07",
           "tournament": "USL League Two",
           "logo_nha": "https://media.api-sports.io/football/teams/10490.png",
           "logo_khach": "https://media.api-sports.io/football/teams/18899.png",
@@ -185,10 +161,10 @@
           },
           "labels": [
             {
-              "text": "🔴 Chờ stream",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff6600"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -213,7 +189,7 @@
         },
         {
           "id": "bugio-5bca0ff79eae",
-          "name": "⚽ Campuchia W vs Timor Leste W | Asean Championship Nữ | Đang diễn ra - 15:45",
+          "name": "⚽ Campuchia W vs Timor Leste W | Asean Championship Nữ | 15:45 13/07",
           "tournament": "Asean Championship Nữ",
           "logo_nha": "https://img0.aiscore.com/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w60",
           "logo_khach": "https://img0.aiscore.com/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png!w60",
@@ -230,10 +206,10 @@
           },
           "labels": [
             {
-              "text": "🔴 Chờ stream",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff6600"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -258,7 +234,7 @@
         },
         {
           "id": "bugio-2672c1554786",
-          "name": "⚽ Ningbo Professional vs Foshan Nanshi | League One China | Đang diễn ra - 18:00",
+          "name": "⚽ Ningbo Professional vs Foshan Nanshi | League One China | 18:00 13/07",
           "tournament": "League One China",
           "logo_nha": "https://img0.aiscore.com/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png!w60",
           "logo_khach": "https://img0.aiscore.com/football/team/2612e942c2ee9018e485e756b48fbcc8.png!w60",
@@ -275,10 +251,10 @@
           },
           "labels": [
             {
-              "text": "🔴 Chờ stream",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff6600"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -303,7 +279,7 @@
         },
         {
           "id": "bugio-ee348c3f9a18",
-          "name": "⚽ Ugyen Academy vs Transport United | Premier Bhutan | Đang diễn ra - 19:00",
+          "name": "⚽ Ugyen Academy vs Transport United | Premier Bhutan | 19:00 13/07",
           "tournament": "Premier Bhutan",
           "logo_nha": "https://static.flashscore.com/res/image/data/ncii97xS-4z9KzNso.png",
           "logo_khach": "https://static.flashscore.com/res/image/data/Iupdi3YA-YidiLdrL.png",
@@ -320,10 +296,10 @@
           },
           "labels": [
             {
-              "text": "🔴 Chờ stream",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff6600"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -348,7 +324,7 @@
         },
         {
           "id": "bugio-7f77a41e2400",
-          "name": "⚽ Nữ Singapore vs Nữ Lào | Asean Championship Nữ | Đang diễn ra - 19:45",
+          "name": "⚽ Nữ Singapore vs Nữ Lào | Asean Championship Nữ | 19:45 13/07",
           "tournament": "Asean Championship Nữ",
           "logo_nha": "https://mediares.thethao247.vn/res/image/data/YJN4hmHG-Qq89lvZJ.png",
           "logo_khach": "https://mediares.thethao247.vn/res/image/data/4pXwrxZg-I5chyk0E.png",
@@ -365,10 +341,10 @@
           },
           "labels": [
             {
-              "text": "🔴 Chờ stream",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff6600"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -393,7 +369,7 @@
         },
         {
           "id": "bugio-26fbeb53623e",
-          "name": "⚽ Reyady Abaseya vs Racing | Premier League | Đang diễn ra",
+          "name": "⚽ Reyady Abaseya vs Racing | Premier League | 21:00 13/07",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/22812.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4572.png",
@@ -410,10 +386,10 @@
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -428,15 +404,7 @@
                     {
                       "id": "bugio-26fbeb53623e",
                       "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ddcc370797",
-                          "name": "BLV Chim Nhỏ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
