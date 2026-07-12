@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "00:01 13/07/2026",
+  "last_updated": "00:10 13/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-9e0b52612322",
-          "name": "⚽ South Korea U18 vs Saudi Arabia U18 | Nations League Women | 00:30 13/07",
+          "name": "⚽ South Korea U18 vs Saudi Arabia U18 | Nations League Women | Đang diễn ra - 00:30",
           "tournament": "Nations League Women",
           "logo_nha": "https://img0.aiscore.com/volleyball/team/604a26fb4f696d522d464fc2ff0919de.png!w60",
           "logo_khach": "https://img0.aiscore.com/volleyball/team/ff392d69660a8445af4b87c249ef3098.png!w60",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "bugio-9e0b52612322",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-8cd708eebe",
+                          "name": "BLV Pháo",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
