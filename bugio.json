@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "10:40 12/07/2026",
+  "last_updated": "10:50 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-d9dc38ce9b32",
-          "name": "⚽ Argentina vs Switzerland | World Cup | Hiệp phụ - 90+'",
+          "name": "⚽ Argentina vs Switzerland | World Cup | Kết thúc",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/26.png",
           "logo_khach": "https://media.api-sports.io/football/teams/15.png",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-effcba0738",
+                          "id": "lnk-bb5fef692e",
                           "name": "BLV Max",
                           "type": "hls",
                           "default": true,
@@ -99,7 +99,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-d40178d8fa",
+                          "id": "lnk-9626221f77",
                           "name": "BLV Mao Từn",
                           "type": "hls",
                           "default": true,
