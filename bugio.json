@@ -1,163 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "12:11 12/07/2026",
+  "last_updated": "12:20 12/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-d9dc38ce9b32",
-          "name": "⚽ Argentina vs Switzerland | World Cup | Kết thúc",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/26.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/15.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/26.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-d9dc38ce9b32",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-d9dc38ce9b32",
-                  "name": "Argentina vs Switzerland",
-                  "streams": [
-                    {
-                      "id": "bugio-d9dc38ce9b32",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5faa71769d",
-                          "name": "BLV Max",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-f499fa772947",
-          "name": "⚽ Suva vs Ba | Premier FIJI | Đang diễn ra - 10:30",
-          "tournament": "Premier FIJI",
-          "logo_nha": "https://static.flashscore.com/res/image/data/OfgzOfCa-2BpUuOMf.png",
-          "logo_khach": "https://static.flashscore.com/res/image/data/EmFQvcYg-WWJXc2sm.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://static.flashscore.com/res/image/data/OfgzOfCa-2BpUuOMf.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-f499fa772947",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-f499fa772947",
-                  "name": "Suva vs Ba",
-                  "streams": [
-                    {
-                      "id": "bugio-f499fa772947",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a3945bcd22",
-                          "name": "BLV Mao Từn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-478a65e270ff",
-          "name": "⚽ Fc Seoul vs Gangwon Fc | K League 1 | 17:30 12/07",
-          "tournament": "K League 1",
-          "logo_nha": "https://media.api-sports.io/football/teams/2766.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2746.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2766.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-478a65e270ff",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-478a65e270ff",
-                  "name": "Fc Seoul vs Gangwon Fc",
-                  "streams": [
-                    {
-                      "id": "bugio-478a65e270ff",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-7381b3b5ce7e",
           "name": "⚽ Shanghai Sipg vs Dalian Zhixing | Super League | 18:35 12/07",
@@ -464,6 +313,141 @@
                   "streams": [
                     {
                       "id": "bugio-0c4a9b4e5232",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-80c767d5c264",
+          "name": "⚽ Sportivo San Juan vs Marin | USL League Two | 09:00 13/07",
+          "tournament": "USL League Two",
+          "logo_nha": "https://media.api-sports.io/football/teams/10490.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/18899.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/10490.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-80c767d5c264",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-80c767d5c264",
+                  "name": "Sportivo San Juan vs Marin",
+                  "streams": [
+                    {
+                      "id": "bugio-80c767d5c264",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-5bca0ff79eae",
+          "name": "⚽ Campuchia W vs Timor Leste W | Asean Championship Nữ | 15:45 13/07",
+          "tournament": "Asean Championship Nữ",
+          "logo_nha": "https://img0.aiscore.com/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w60",
+          "logo_khach": "https://img0.aiscore.com/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png!w60",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img0.aiscore.com/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w60",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-5bca0ff79eae",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-5bca0ff79eae",
+                  "name": "Campuchia W vs Timor Leste W",
+                  "streams": [
+                    {
+                      "id": "bugio-5bca0ff79eae",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-2672c1554786",
+          "name": "⚽ Ningbo Professional vs Foshan Nanshi | League One China | 18:00 13/07",
+          "tournament": "League One China",
+          "logo_nha": "https://img0.aiscore.com/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png!w60",
+          "logo_khach": "https://img0.aiscore.com/football/team/2612e942c2ee9018e485e756b48fbcc8.png!w60",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img0.aiscore.com/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png!w60",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-2672c1554786",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-2672c1554786",
+                  "name": "Ningbo Professional vs Foshan Nanshi",
+                  "streams": [
+                    {
+                      "id": "bugio-2672c1554786",
                       "name": "F",
                       "stream_links": []
                     }
