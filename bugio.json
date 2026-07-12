@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "20:20 12/07/2026",
+  "last_updated": "20:30 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-d926ad9053c9",
-          "name": "⚽ São Bernardo vs Cuiaba | Serie B | 02:00 13/07",
+          "name": "⚽ São Bernardo vs Cuiaba | Serie B | Đang diễn ra",
           "tournament": "Serie B",
           "logo_nha": "https://media.api-sports.io/football/teams/7865.png",
           "logo_khach": "https://media.api-sports.io/football/teams/1193.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "bugio-d926ad9053c9",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-e390bee8e5",
+                          "name": "BLV Pháo",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -54,7 +62,7 @@
         },
         {
           "id": "bugio-d23a2bab5c84",
-          "name": "⚽ Chicago Fire Ii vs New York Rb Ii | MLS Next Pro | 03:00 13/07",
+          "name": "⚽ Chicago Fire Ii vs New York Rb Ii | MLS Next Pro | Đang diễn ra",
           "tournament": "MLS Next Pro",
           "logo_nha": "https://media.api-sports.io/football/teams/4040.png",
           "logo_khach": "https://media.api-sports.io/football/teams/4004.png",
@@ -71,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "🔴 Chờ stream",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff6600"
             }
           ],
           "sources": [
@@ -99,7 +107,7 @@
         },
         {
           "id": "bugio-0c4a9b4e5232",
-          "name": "⚽ Cf Montreal vs Vancouver Fc | Canadian Championship | 06:30 13/07",
+          "name": "⚽ Cf Montreal vs Vancouver Fc | Canadian Championship | Đang diễn ra",
           "tournament": "Canadian Championship",
           "logo_nha": "https://media.api-sports.io/football/teams/1614.png",
           "logo_khach": "https://media.api-sports.io/football/teams/20881.png",
@@ -116,10 +124,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "🔴 Chờ stream",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff6600"
             }
           ],
           "sources": [
