@@ -1,67 +1,14 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "06:50 12/07/2026",
+  "last_updated": "07:01 12/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
         {
-          "id": "bugio-89375a138abf",
-          "name": "⚽ Norway vs England | World Cup | Kết thúc",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/1090.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/10.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1090.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-89375a138abf",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-89375a138abf",
-                  "name": "Norway vs England",
-                  "streams": [
-                    {
-                      "id": "bugio-89375a138abf",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f4bec62810",
-                          "name": "BLV Chim Nhỏ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-4388630d4055",
+          "id": "bugio-d9dc38ce9b32",
           "name": "⚽ Argentina vs Switzerland | World Cup | Đang diễn ra",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/26.png",
@@ -87,36 +34,22 @@
           ],
           "sources": [
             {
-              "id": "bugio-4388630d4055",
+              "id": "bugio-d9dc38ce9b32",
               "name": "Bù  Giờ TV",
               "contents": [
                 {
-                  "id": "bugio-4388630d4055",
+                  "id": "bugio-d9dc38ce9b32",
                   "name": "Argentina vs Switzerland",
                   "streams": [
                     {
-                      "id": "bugio-4388630d4055",
+                      "id": "bugio-d9dc38ce9b32",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7a176b2bc9",
-                          "name": "BLV Tiểu Trà Đá",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-9fc6886861",
-                          "name": "BLV Phi MC",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-adcd9b175e",
+                          "id": "lnk-6f77d832f0",
                           "name": "BLV Max",
                           "type": "hls",
-                          "default": false,
+                          "default": true,
                           "url": "https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8"
                         }
                       ]
@@ -478,6 +411,51 @@
                   "streams": [
                     {
                       "id": "bugio-d23a2bab5c84",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-0c4a9b4e5232",
+          "name": "⚽ Cf Montreal vs Vancouver Fc | Canadian Championship | 06:30 13/07",
+          "tournament": "Canadian Championship",
+          "logo_nha": "https://media.api-sports.io/football/teams/1614.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/20881.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1614.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-0c4a9b4e5232",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-0c4a9b4e5232",
+                  "name": "Cf Montreal vs Vancouver Fc",
+                  "streams": [
+                    {
+                      "id": "bugio-0c4a9b4e5232",
                       "name": "F",
                       "stream_links": []
                     }
