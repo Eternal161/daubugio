@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "00:31 13/07/2026",
+  "last_updated": "00:40 13/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b5b4a31d58",
+                          "id": "lnk-14b70408d5",
                           "name": "BLV Pháo",
                           "type": "hls",
                           "default": true,
@@ -62,7 +62,7 @@
         },
         {
           "id": "bugio-d2afbfa75dbc",
-          "name": "⚽ Serbia vs Netherlands | Nations League Women | 01:00 13/07",
+          "name": "⚽ Serbia vs Netherlands | Nations League Women | Đang diễn ra - 01:00",
           "tournament": "Nations League Women",
           "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS7USpe96X0T9QxejRy8mJ36xXjVbS8uB9ig8qhz3KqA&s",
           "logo_khach": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUvItW_qz14E-Zi_rKyCTJ7yRoZe7ZPoXZLfFPutp7kg&s",
@@ -79,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -97,7 +97,15 @@
                     {
                       "id": "bugio-d2afbfa75dbc",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-c0e2e278c8",
+                          "name": "BLV Tiểu Mèo",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
