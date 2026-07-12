@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "08:10 12/07/2026",
+  "last_updated": "08:20 12/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-d9dc38ce9b32",
-          "name": "⚽ Argentina vs Switzerland | World Cup | Hiệp 1 - 10'",
+          "name": "⚽ Argentina vs Switzerland | World Cup | Hiệp 1 - 20'",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/26.png",
           "logo_khach": "https://media.api-sports.io/football/teams/15.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-577e423383",
+                          "id": "lnk-523e2ada12",
                           "name": "BLV Max",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxi0gr4uqmtt8y41hcjsgyzdnpbafitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=2b146be960692448c3ec925f-178381866143109&wsIPSercert=02d3657e8b0a4b055700c988410705b0&wsBindIP=2&wsserid=1168231785609677651"
+                          "url": "https://tfxi3gr4dymttgwanhc3sfa4urmmnc7sg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=2913e7e4a41189eb44ceed4c-178381926109723&wsIPSercert=359d82c375dad30fed8b00fa17bbbb54&wsBindIP=2&wsserid=1172662091344090222"
                         }
                       ]
                     }
