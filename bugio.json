@@ -1,57 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "21:40 13/07/2026",
+  "last_updated": "21:51 13/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-6694e753780a",
-          "name": "⚽ Maardu vs Tartu Welco | Esiliiga A | 23:00 13/07",
-          "tournament": "Esiliiga A",
-          "logo_nha": "https://media.api-sports.io/football/teams/3527.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/3524.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/3527.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-6694e753780a",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-6694e753780a",
-                  "name": "Maardu vs Tartu Welco",
-                  "streams": [
-                    {
-                      "id": "bugio-6694e753780a",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-6732b3556a7f",
           "name": "⚽ Djurgardens If vs Halmstad | Allsvenskan | 00:00 14/07",
@@ -448,6 +403,51 @@
                   "streams": [
                     {
                       "id": "bugio-9e29cb30ed27",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-6f11e0da11a4",
+          "name": "⚽ Saburtalo vs Flora Tallinn | UEFA Champions League | 23:00 14/07",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/3502.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/687.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3502.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-6f11e0da11a4",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-6f11e0da11a4",
+                  "name": "Saburtalo vs Flora Tallinn",
+                  "streams": [
+                    {
+                      "id": "bugio-6f11e0da11a4",
                       "name": "F",
                       "stream_links": []
                     }
