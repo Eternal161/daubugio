@@ -1,57 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "11:10 13/07/2026",
+  "last_updated": "11:21 13/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-c2f98d7cd342",
-          "name": "⚽ South Korea U18 vs Saudi Arabia U18 | Nations League Women | 12:30 13/07",
-          "tournament": "Nations League Women",
-          "logo_nha": "https://img0.aiscore.com/volleyball/team/604a26fb4f696d522d464fc2ff0919de.png!w60",
-          "logo_khach": "https://img0.aiscore.com/volleyball/team/ff392d69660a8445af4b87c249ef3098.png!w60",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img0.aiscore.com/volleyball/team/604a26fb4f696d522d464fc2ff0919de.png!w60",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-c2f98d7cd342",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-c2f98d7cd342",
-                  "name": "South Korea U18 vs Saudi Arabia U18",
-                  "streams": [
-                    {
-                      "id": "bugio-c2f98d7cd342",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-980e916bc219",
           "name": "⚽ Kyrgyzstan U18 vs Thailand U18 | Nations League Women | 15:30 13/07",
@@ -448,6 +403,51 @@
                   "streams": [
                     {
                       "id": "bugio-6694e753780a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-6732b3556a7f",
+          "name": "⚽ Djurgardens If vs Halmstad | Allsvenskan | 00:00 14/07",
+          "tournament": "Allsvenskan",
+          "logo_nha": "https://media.api-sports.io/football/teams/364.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/766.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/364.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-6732b3556a7f",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-6732b3556a7f",
+                  "name": "Djurgardens If vs Halmstad",
+                  "streams": [
+                    {
+                      "id": "bugio-6732b3556a7f",
                       "name": "F",
                       "stream_links": []
                     }
