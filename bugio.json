@@ -1,57 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "15:21 13/07/2026",
+  "last_updated": "15:31 13/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-10b7b3515c58",
-          "name": "⚽ China U18 vs Hong Kong U18 | Nations League Women | 18:00 13/07",
-          "tournament": "Nations League Women",
-          "logo_nha": "https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w60",
-          "logo_khach": "https://img0.aiscore.com/volleyball/team/4a2e9789964030d8f9873ca4b8a7587b.png!w60",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w60",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-10b7b3515c58",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-10b7b3515c58",
-                  "name": "China U18 vs Hong Kong U18",
-                  "streams": [
-                    {
-                      "id": "bugio-10b7b3515c58",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-f27ad2e95d81",
           "name": "⚽ Japan U18 vs Australia U18 | Nations League Women | 18:30 13/07",
@@ -448,6 +403,51 @@
                   "streams": [
                     {
                       "id": "bugio-bad95f0f6b29",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-6ceb97cdf66b",
+          "name": "⚽ Hangzhou Greentown vs Qingdao Jonoon | Super League | 18:35 14/07",
+          "tournament": "Super League",
+          "logo_nha": "https://media.api-sports.io/football/teams/848.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1431.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/848.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-6ceb97cdf66b",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-6ceb97cdf66b",
+                  "name": "Hangzhou Greentown vs Qingdao Jonoon",
+                  "streams": [
+                    {
+                      "id": "bugio-6ceb97cdf66b",
                       "name": "F",
                       "stream_links": []
                     }
