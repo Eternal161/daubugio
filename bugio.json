@@ -1,282 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "16:50 13/07/2026",
+  "last_updated": "17:01 13/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-2672c1554786",
-          "name": "⚽ Ningbo Professional vs Foshan Nanshi | League One China | 18:00 13/07",
-          "tournament": "League One China",
-          "logo_nha": "https://img0.aiscore.com/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png!w60",
-          "logo_khach": "https://img0.aiscore.com/football/team/2612e942c2ee9018e485e756b48fbcc8.png!w60",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img0.aiscore.com/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png!w60",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-2672c1554786",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-2672c1554786",
-                  "name": "Ningbo Professional vs Foshan Nanshi",
-                  "streams": [
-                    {
-                      "id": "bugio-2672c1554786",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-10b7b3515c58",
-          "name": "⚽ China U18 vs Hong Kong U18 | Nations League Women | 18:00 13/07",
-          "tournament": "Nations League Women",
-          "logo_nha": "https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w60",
-          "logo_khach": "https://img0.aiscore.com/volleyball/team/4a2e9789964030d8f9873ca4b8a7587b.png!w60",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img0.aiscore.com/volleyball/team/da0f5c2d7a7ced93056baddc54135a74.png!w60",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-10b7b3515c58",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-10b7b3515c58",
-                  "name": "China U18 vs Hong Kong U18",
-                  "streams": [
-                    {
-                      "id": "bugio-10b7b3515c58",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-f27ad2e95d81",
-          "name": "⚽ Japan U18 vs Australia U18 | Nations League Women | 18:30 13/07",
-          "tournament": "Nations League Women",
-          "logo_nha": "https://img0.aiscore.com/football/team/962538cccefe2f3c95d40f66ed2bfb71.png!w60",
-          "logo_khach": "https://img0.aiscore.com/football/team/2d8fe42de2f833581faa077f788329fa.png!w60",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img0.aiscore.com/football/team/962538cccefe2f3c95d40f66ed2bfb71.png!w60",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-f27ad2e95d81",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-f27ad2e95d81",
-                  "name": "Japan U18 vs Australia U18",
-                  "streams": [
-                    {
-                      "id": "bugio-f27ad2e95d81",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-ee348c3f9a18",
-          "name": "⚽ Ugyen Academy vs Transport United | Premier Bhutan | 19:00 13/07",
-          "tournament": "Premier Bhutan",
-          "logo_nha": "https://static.flashscore.com/res/image/data/ncii97xS-4z9KzNso.png",
-          "logo_khach": "https://static.flashscore.com/res/image/data/Iupdi3YA-YidiLdrL.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://static.flashscore.com/res/image/data/ncii97xS-4z9KzNso.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-ee348c3f9a18",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-ee348c3f9a18",
-                  "name": "Ugyen Academy vs Transport United",
-                  "streams": [
-                    {
-                      "id": "bugio-ee348c3f9a18",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-7f77a41e2400",
-          "name": "⚽ Nữ Singapore vs Nữ Lào | Asean Championship Nữ | 19:45 13/07",
-          "tournament": "Asean Championship Nữ",
-          "logo_nha": "https://mediares.thethao247.vn/res/image/data/YJN4hmHG-Qq89lvZJ.png",
-          "logo_khach": "https://mediares.thethao247.vn/res/image/data/4pXwrxZg-I5chyk0E.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://mediares.thethao247.vn/res/image/data/YJN4hmHG-Qq89lvZJ.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-7f77a41e2400",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-7f77a41e2400",
-                  "name": "Nữ Singapore vs Nữ Lào",
-                  "streams": [
-                    {
-                      "id": "bugio-7f77a41e2400",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-26fbeb53623e",
-          "name": "⚽ Reyady Abaseya vs Racing | Premier League | 21:00 13/07",
-          "tournament": "Premier League",
-          "logo_nha": "https://media.api-sports.io/football/teams/22812.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/4572.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/22812.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-26fbeb53623e",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-26fbeb53623e",
-                  "name": "Reyady Abaseya vs Racing",
-                  "streams": [
-                    {
-                      "id": "bugio-26fbeb53623e",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-6694e753780a",
           "name": "⚽ Maardu vs Tartu Welco | Esiliiga A | 23:00 13/07",
@@ -448,6 +178,276 @@
                   "streams": [
                     {
                       "id": "bugio-3559e3f3d50c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-bad95f0f6b29",
+          "name": "⚽ Cavalry Fc vs Vancouver Whitecaps | Canadian Championship | 08:30 14/07",
+          "tournament": "Canadian Championship",
+          "logo_nha": "https://media.api-sports.io/football/teams/2619.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1603.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2619.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-bad95f0f6b29",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-bad95f0f6b29",
+                  "name": "Cavalry Fc vs Vancouver Whitecaps",
+                  "streams": [
+                    {
+                      "id": "bugio-bad95f0f6b29",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-6ceb97cdf66b",
+          "name": "⚽ Hangzhou Greentown vs Qingdao Jonoon | Super League | 18:35 14/07",
+          "tournament": "Super League",
+          "logo_nha": "https://media.api-sports.io/football/teams/848.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1431.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/848.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-6ceb97cdf66b",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-6ceb97cdf66b",
+                  "name": "Hangzhou Greentown vs Qingdao Jonoon",
+                  "streams": [
+                    {
+                      "id": "bugio-6ceb97cdf66b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-e5bbdf89d058",
+          "name": "⚽ Bhutan U19 vs Drukpa | Premier League | 19:00 14/07",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/5433.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/27725.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5433.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-e5bbdf89d058",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-e5bbdf89d058",
+                  "name": "Bhutan U19 vs Drukpa",
+                  "streams": [
+                    {
+                      "id": "bugio-e5bbdf89d058",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-e697a20d691e",
+          "name": "⚽ Muras United vs Bars | Premier League | 21:00 14/07",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/21167.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/25765.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/21167.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-e697a20d691e",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-e697a20d691e",
+                  "name": "Muras United vs Bars",
+                  "streams": [
+                    {
+                      "id": "bugio-e697a20d691e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-9e29cb30ed27",
+          "name": "⚽ Kups vs Vardar Skopje | UEFA Champions League | 22:00 14/07",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/1165.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/574.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1165.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-9e29cb30ed27",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-9e29cb30ed27",
+                  "name": "Kups vs Vardar Skopje",
+                  "streams": [
+                    {
+                      "id": "bugio-9e29cb30ed27",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-6f11e0da11a4",
+          "name": "⚽ Saburtalo vs Flora Tallinn | UEFA Champions League | 23:00 14/07",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/3502.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/687.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3502.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-6f11e0da11a4",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-6f11e0da11a4",
+                  "name": "Saburtalo vs Flora Tallinn",
+                  "streams": [
+                    {
+                      "id": "bugio-6f11e0da11a4",
                       "name": "F",
                       "stream_links": []
                     }
