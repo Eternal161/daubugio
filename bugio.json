@@ -1,147 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "11:50 13/07/2026",
+  "last_updated": "12:01 13/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-980e916bc219",
-          "name": "⚽ Kyrgyzstan U18 vs Thailand U18 | Nations League Women | 15:30 13/07",
-          "tournament": "Nations League Women",
-          "logo_nha": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-TP1xJx31Arc7IWJFgHRpIEljNusWRw7MdLIIgbwcMg&s",
-          "logo_khach": "https://www.forebet.com/images/icons-volleyball/2617.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-TP1xJx31Arc7IWJFgHRpIEljNusWRw7MdLIIgbwcMg&s",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-980e916bc219",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-980e916bc219",
-                  "name": "Kyrgyzstan U18 vs Thailand U18",
-                  "streams": [
-                    {
-                      "id": "bugio-980e916bc219",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-5bca0ff79eae",
-          "name": "⚽ Campuchia W vs Timor Leste W | Asean Championship Nữ | 15:45 13/07",
-          "tournament": "Asean Championship Nữ",
-          "logo_nha": "https://img0.aiscore.com/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w60",
-          "logo_khach": "https://img0.aiscore.com/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png!w60",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img0.aiscore.com/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w60",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-5bca0ff79eae",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-5bca0ff79eae",
-                  "name": "Campuchia W vs Timor Leste W",
-                  "streams": [
-                    {
-                      "id": "bugio-5bca0ff79eae",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-2672c1554786",
-          "name": "⚽ Ningbo Professional vs Foshan Nanshi | League One China | 18:00 13/07",
-          "tournament": "League One China",
-          "logo_nha": "https://img0.aiscore.com/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png!w60",
-          "logo_khach": "https://img0.aiscore.com/football/team/2612e942c2ee9018e485e756b48fbcc8.png!w60",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img0.aiscore.com/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png!w60",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-2672c1554786",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-2672c1554786",
-                  "name": "Ningbo Professional vs Foshan Nanshi",
-                  "streams": [
-                    {
-                      "id": "bugio-2672c1554786",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-10b7b3515c58",
           "name": "⚽ China U18 vs Hong Kong U18 | Nations League Women | 18:00 13/07",
@@ -448,6 +313,141 @@
                   "streams": [
                     {
                       "id": "bugio-6732b3556a7f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-eb91cf0773d8",
+          "name": "⚽ Breidablik vs Keflavik | Úrvalsdeild | 02:15 14/07",
+          "tournament": "Úrvalsdeild",
+          "logo_nha": "https://media.api-sports.io/football/teams/276.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/269.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/276.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-eb91cf0773d8",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-eb91cf0773d8",
+                  "name": "Breidablik vs Keflavik",
+                  "streams": [
+                    {
+                      "id": "bugio-eb91cf0773d8",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-3559e3f3d50c",
+          "name": "⚽ Ceara vs Athletic Club | Serie B | 06:30 14/07",
+          "tournament": "Serie B",
+          "logo_nha": "https://media.api-sports.io/football/teams/129.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/13975.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/129.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-3559e3f3d50c",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-3559e3f3d50c",
+                  "name": "Ceara vs Athletic Club",
+                  "streams": [
+                    {
+                      "id": "bugio-3559e3f3d50c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-bad95f0f6b29",
+          "name": "⚽ Cavalry Fc vs Vancouver Whitecaps | Canadian Championship | 08:30 14/07",
+          "tournament": "Canadian Championship",
+          "logo_nha": "https://media.api-sports.io/football/teams/2619.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1603.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2619.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-bad95f0f6b29",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-bad95f0f6b29",
+                  "name": "Cavalry Fc vs Vancouver Whitecaps",
+                  "streams": [
+                    {
+                      "id": "bugio-bad95f0f6b29",
                       "name": "F",
                       "stream_links": []
                     }
