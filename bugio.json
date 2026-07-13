@@ -1,102 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "08:01 13/07/2026",
+  "last_updated": "08:11 13/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-80c767d5c264",
-          "name": "⚽ Sportivo San Juan vs Marin | USL League Two | 09:00 13/07",
-          "tournament": "USL League Two",
-          "logo_nha": "https://media.api-sports.io/football/teams/10490.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/18899.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10490.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-80c767d5c264",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-80c767d5c264",
-                  "name": "Sportivo San Juan vs Marin",
-                  "streams": [
-                    {
-                      "id": "bugio-80c767d5c264",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-c0e8d6c1b270",
-          "name": "⚽ Philippines U18 vs Bahrain U18 | Nations League Women | 12:00 13/07",
-          "tournament": "Nations League Women",
-          "logo_nha": "https://static.flashscore.com/res/image/data/xM6ieGyS-pxNrJDua.png",
-          "logo_khach": "https://static.flashscore.com/res/image/data/8bil7gxS-n7hSU0Yg.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://static.flashscore.com/res/image/data/xM6ieGyS-pxNrJDua.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-c0e8d6c1b270",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-c0e8d6c1b270",
-                  "name": "Philippines U18 vs Bahrain U18",
-                  "streams": [
-                    {
-                      "id": "bugio-c0e8d6c1b270",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-c2f98d7cd342",
           "name": "⚽ South Korea U18 vs Saudi Arabia U18 | Nations League Women | 12:30 13/07",
@@ -448,6 +358,96 @@
                   "streams": [
                     {
                       "id": "bugio-7f77a41e2400",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-26fbeb53623e",
+          "name": "⚽ Reyady Abaseya vs Racing | Premier League | 21:00 13/07",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/22812.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4572.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/22812.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-26fbeb53623e",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-26fbeb53623e",
+                  "name": "Reyady Abaseya vs Racing",
+                  "streams": [
+                    {
+                      "id": "bugio-26fbeb53623e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-6694e753780a",
+          "name": "⚽ Maardu vs Tartu Welco | Esiliiga A | 23:00 13/07",
+          "tournament": "Esiliiga A",
+          "logo_nha": "https://media.api-sports.io/football/teams/3527.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3524.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3527.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-6694e753780a",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-6694e753780a",
+                  "name": "Maardu vs Tartu Welco",
+                  "streams": [
+                    {
+                      "id": "bugio-6694e753780a",
                       "name": "F",
                       "stream_links": []
                     }
