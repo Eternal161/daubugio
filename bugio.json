@@ -1,57 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "20:01 13/07/2026",
+  "last_updated": "20:11 13/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-26fbeb53623e",
-          "name": "⚽ Reyady Abaseya vs Racing | Premier League | 21:00 13/07",
-          "tournament": "Premier League",
-          "logo_nha": "https://media.api-sports.io/football/teams/22812.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/4572.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/22812.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-26fbeb53623e",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-26fbeb53623e",
-                  "name": "Reyady Abaseya vs Racing",
-                  "streams": [
-                    {
-                      "id": "bugio-26fbeb53623e",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-6694e753780a",
           "name": "⚽ Maardu vs Tartu Welco | Esiliiga A | 23:00 13/07",
@@ -448,6 +403,51 @@
                   "streams": [
                     {
                       "id": "bugio-e697a20d691e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-9e29cb30ed27",
+          "name": "⚽ Kups vs Vardar Skopje | UEFA Champions League | 22:00 14/07",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/1165.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/574.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1165.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-9e29cb30ed27",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-9e29cb30ed27",
+                  "name": "Kups vs Vardar Skopje",
+                  "streams": [
+                    {
+                      "id": "bugio-9e29cb30ed27",
                       "name": "F",
                       "stream_links": []
                     }
