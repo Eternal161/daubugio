@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "18:40 14/07/2026",
+  "last_updated": "18:50 14/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-9c22d96fdc",
+                          "id": "lnk-0f72f5a4c5",
                           "name": "BLV Chim Nhỏ",
                           "type": "hls",
                           "default": true,
