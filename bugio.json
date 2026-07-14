@@ -1,118 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "22:51 14/07/2026",
+  "last_updated": "23:01 14/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-6f11e0da11a4",
-          "name": "⚽ Saburtalo vs Flora Tallinn | UEFA Champions League | Đang diễn ra",
-          "tournament": "UEFA Champions League",
-          "logo_nha": "https://media.api-sports.io/football/teams/3502.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/687.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/3502.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-6f11e0da11a4",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-6f11e0da11a4",
-                  "name": "Saburtalo vs Flora Tallinn",
-                  "streams": [
-                    {
-                      "id": "bugio-6f11e0da11a4",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b8f370c68b",
-                          "name": "BLV Max",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxk3gr4dymttgwanhc3sfa4urmmnc7sg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=2913e7e4a41189eb44ceed4c-178404427880303&wsIPSercert=a30913672e0edaed3b899f7363aaa756&wsBindIP=2&wsserid=1172662091344090222"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-73fb2b372a53",
-          "name": "⚽ Inter Club D'Escaldes vs Lincoln Red Imps Fc | UEFA Champions League | Đang diễn ra",
-          "tournament": "UEFA Champions League",
-          "logo_nha": "https://media.api-sports.io/football/teams/3342.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/667.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/3342.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-73fb2b372a53",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-73fb2b372a53",
-                  "name": "Inter Club D'Escaldes vs Lincoln Red Imps Fc",
-                  "streams": [
-                    {
-                      "id": "bugio-73fb2b372a53",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-07f0ad08ae",
-                          "name": "BLV Kevin",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxk3gr4dymttgwanhc3sfa4urmmnc7sg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178404428538913&wsIPSercert=a30913672e0edaed3b899f7363aaa756&wsBindIP=2&wsserid=1177063474761571144"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-341db63e25d8",
           "name": "⚽ Levski Sofia vs Borac Banja Luka | UEFA Champions League | 00:30 15/07",
@@ -464,6 +358,96 @@
                   "streams": [
                     {
                       "id": "bugio-11f2f227affc",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-54c30fb43b93",
+          "name": "⚽ Universitatea Craiova vs Ml Vitebsk | UEFA Champions League | 00:30 16/07",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/632.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/7808.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/632.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-54c30fb43b93",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-54c30fb43b93",
+                  "name": "Universitatea Craiova vs Ml Vitebsk",
+                  "streams": [
+                    {
+                      "id": "bugio-54c30fb43b93",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-f5afd42209c4",
+          "name": "⚽ Atert Bissen vs Ki Klaksvik | UEFA Champions League | 01:15 16/07",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/15847.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/701.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/15847.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-f5afd42209c4",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-f5afd42209c4",
+                  "name": "Atert Bissen vs Ki Klaksvik",
+                  "streams": [
+                    {
+                      "id": "bugio-f5afd42209c4",
                       "name": "F",
                       "stream_links": []
                     }
