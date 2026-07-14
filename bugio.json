@@ -1,118 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "20:21 14/07/2026",
+  "last_updated": "20:31 14/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-6ceb97cdf66b",
-          "name": "⚽ Hangzhou Greentown vs Qingdao Jonoon | Super League | Hiệp 2 - 83'",
-          "tournament": "Super League",
-          "logo_nha": "https://media.api-sports.io/football/teams/848.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1431.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/848.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-6ceb97cdf66b",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-6ceb97cdf66b",
-                  "name": "Hangzhou Greentown vs Qingdao Jonoon",
-                  "streams": [
-                    {
-                      "id": "bugio-6ceb97cdf66b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-52e2e9c4ab",
-                          "name": "BLV Pháo",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxk3gr4dymttgwanhc3sfa4urmmnc7sg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178403526910397&wsIPSercert=b16a524fb648970698a176da17a1b80e&wsBindIP=2&wsserid=1177063474761571144"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-e5bbdf89d058",
-          "name": "⚽ Bhutan U19 vs Drukpa | Premier League | Hiệp 2 - 63'",
-          "tournament": "Premier League",
-          "logo_nha": "https://media.api-sports.io/football/teams/5433.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/27725.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/5433.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-e5bbdf89d058",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-e5bbdf89d058",
-                  "name": "Bhutan U19 vs Drukpa",
-                  "streams": [
-                    {
-                      "id": "bugio-e5bbdf89d058",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bc73de26de",
-                          "name": "BLV Chim Nhỏ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-e697a20d691e",
           "name": "⚽ Muras United vs Bars | Premier League | 21:00 14/07",
@@ -464,6 +358,96 @@
                   "streams": [
                     {
                       "id": "bugio-0c5126b4df58",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-e935743688c0",
+          "name": "⚽ Wuhan Jiangda Nữ vs Shandong Sl Nữ | Ngoại Hạng Trung Quốc Nữ | 18:35 15/07",
+          "tournament": "Ngoại Hạng Trung Quốc Nữ",
+          "logo_nha": "https://img0.aiscore.com/football/team/e5c9882eac2bcd64767b4cdb6544dcd7.png!w60",
+          "logo_khach": "https://img0.aiscore.com/football/team/563ea9a0da488aaf3e046961e2c3dc99.png!w60",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img0.aiscore.com/football/team/e5c9882eac2bcd64767b4cdb6544dcd7.png!w60",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-e935743688c0",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-e935743688c0",
+                  "name": "Wuhan Jiangda Nữ vs Shandong Sl Nữ",
+                  "streams": [
+                    {
+                      "id": "bugio-e935743688c0",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-eccc2e6e59f7",
+          "name": "⚽ Malisheva vs Vllaznia Shkodër | UEFA Europa Conference League | 21:30 15/07",
+          "tournament": "UEFA Europa Conference League",
+          "logo_nha": "https://media.api-sports.io/football/teams/15576.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3339.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/15576.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-eccc2e6e59f7",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-eccc2e6e59f7",
+                  "name": "Malisheva vs Vllaznia Shkodër",
+                  "streams": [
+                    {
+                      "id": "bugio-eccc2e6e59f7",
                       "name": "F",
                       "stream_links": []
                     }
