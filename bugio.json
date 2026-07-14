@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "03:50 15/07/2026",
+  "last_updated": "04:01 15/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-b0750a8064fe",
-          "name": "⚽ France vs Spain | World Cup | Hiệp 2 - 88'",
+          "name": "⚽ France vs Spain | World Cup | Kết thúc",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/2.png",
           "logo_khach": "https://media.api-sports.io/football/teams/9.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-de0728a108",
+                          "id": "lnk-598ce5f0ad",
                           "name": "BLV Max",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxk1gr4uqmtt8y41hcjsgyzdkcjpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=d50ab20a33cd1e3fab7f76e4-178406226455563&wsIPSercert=8d1b9652ab372410996e81554e6d2cc1&wsBindIP=2&wsserid=1168283323380319328"
+                          "url": "https://tfxk0gr3uomttgr31hcj18yzdncbifitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=aaae0abd345b5c2fc903a945-178406288142107&wsIPSercert=f80c752087e2471741323add882ed2e9&wsBindIP=2&wsserid=1168243256660972706"
                         }
                       ]
                     }
