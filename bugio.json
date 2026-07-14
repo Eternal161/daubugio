@@ -1,57 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "08:01 14/07/2026",
+  "last_updated": "08:10 14/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-6ceb97cdf66b",
-          "name": "⚽ Hangzhou Greentown vs Qingdao Jonoon | Super League | 18:35 14/07",
-          "tournament": "Super League",
-          "logo_nha": "https://media.api-sports.io/football/teams/848.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/1431.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/848.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-6ceb97cdf66b",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-6ceb97cdf66b",
-                  "name": "Hangzhou Greentown vs Qingdao Jonoon",
-                  "streams": [
-                    {
-                      "id": "bugio-6ceb97cdf66b",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-e5bbdf89d058",
           "name": "⚽ Bhutan U19 vs Drukpa | Premier League | 19:00 14/07",
