@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "04:01 15/07/2026",
+  "last_updated": "04:11 15/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,13 +46,148 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-598ce5f0ad",
+                          "id": "lnk-5a8294303c",
                           "name": "BLV Max",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxk0gr3uomttgr31hcj18yzdncbifitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=aaae0abd345b5c2fc903a945-178406288142107&wsIPSercert=f80c752087e2471741323add882ed2e9&wsBindIP=2&wsserid=1168243256660972706"
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8"
                         }
                       ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-a967f8766c87",
+          "name": "⚽ Canada vs Argentina | Nations League | 10:00 15/07",
+          "tournament": "Nations League",
+          "logo_nha": "https://img0.aiscore.com/football/team/336e1c9ab6894a3b893c1ef45235a164.png!w60",
+          "logo_khach": "https://img0.aiscore.com/football/team/ef7329946e1741b9ade4fedbf739158a.png!w60",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img0.aiscore.com/football/team/336e1c9ab6894a3b893c1ef45235a164.png!w60",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-a967f8766c87",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-a967f8766c87",
+                  "name": "Canada vs Argentina",
+                  "streams": [
+                    {
+                      "id": "bugio-a967f8766c87",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-d58f0a972eaa",
+          "name": "⚽ Việt Nam vs Thái Lan | SEA V CUP 2026 | 13:00 15/07",
+          "tournament": "SEA V CUP 2026",
+          "logo_nha": "https://static.flashscore.com/res/image/data/nsORfhdM-AeUnl0mG.png",
+          "logo_khach": "https://static.flashscore.com/res/image/data/zDaxmTCr-CrkmOPt0.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://static.flashscore.com/res/image/data/nsORfhdM-AeUnl0mG.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-d58f0a972eaa",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-d58f0a972eaa",
+                  "name": "Việt Nam vs Thái Lan",
+                  "streams": [
+                    {
+                      "id": "bugio-d58f0a972eaa",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-b60874d0e523",
+          "name": "⚽ Bỉ vs Cuba | Nations League | 13:30 15/07",
+          "tournament": "Nations League",
+          "logo_nha": "https://img0.aiscore.com/volleyball/team/30c146391ed01570c94d91039480d18d.png!w60",
+          "logo_khach": "https://img0.aiscore.com/volleyball/team/e4c6d60341cd022b36dcc56e47238f8d.png!w60",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img0.aiscore.com/volleyball/team/30c146391ed01570c94d91039480d18d.png!w60",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-b60874d0e523",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-b60874d0e523",
+                  "name": "Bỉ vs Cuba",
+                  "streams": [
+                    {
+                      "id": "bugio-b60874d0e523",
+                      "name": "F",
+                      "stream_links": []
                     }
                   ]
                 }
@@ -106,6 +241,51 @@
           ]
         },
         {
+          "id": "bugio-5bcabfb176ae",
+          "name": "⚽ Nhật Bản vs Ý | Nations League | 17:20 15/07",
+          "tournament": "Nations League",
+          "logo_nha": "https://img0.aiscore.com/football/team/871d73474b2d6b307fe3862403e9c77d.png!w60",
+          "logo_khach": "https://img0.aiscore.com/football/team/d3cf991cf96ba15132ed236fa0cad5a5.png!w60",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img0.aiscore.com/football/team/871d73474b2d6b307fe3862403e9c77d.png!w60",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-5bcabfb176ae",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-5bcabfb176ae",
+                  "name": "Nhật Bản vs Ý",
+                  "streams": [
+                    {
+                      "id": "bugio-5bcabfb176ae",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "bugio-0c5126b4df58",
           "name": "⚽ Cheonan City vs Mokpo City | FA Cup | 17:30 15/07",
           "tournament": "FA Cup",
@@ -141,6 +321,51 @@
                   "streams": [
                     {
                       "id": "bugio-0c5126b4df58",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-e0d2e6fa5efb",
+          "name": "⚽ Đức vs Slovenia | Nations League | 18:00 15/07",
+          "tournament": "Nations League",
+          "logo_nha": "https://img0.aiscore.com/basketball/team/58df018114526da9fa078444ba9b585f.png!w250",
+          "logo_khach": "https://img0.aiscore.com/basketball/team/35ddc4d975ebf4ca72e69c453bc89d44.png!w250",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img0.aiscore.com/basketball/team/58df018114526da9fa078444ba9b585f.png!w250",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-e0d2e6fa5efb",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-e0d2e6fa5efb",
+                  "name": "Đức vs Slovenia",
+                  "streams": [
+                    {
+                      "id": "bugio-e0d2e6fa5efb",
                       "name": "F",
                       "stream_links": []
                     }
@@ -231,231 +456,6 @@
                   "streams": [
                     {
                       "id": "bugio-eccc2e6e59f7",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-11f2f227affc",
-          "name": "⚽ Freetown City vs Ports Authority | Premier Sierra Leone | 23:15 15/07",
-          "tournament": "Premier Sierra Leone",
-          "logo_nha": "https://img0.aiscore.com/football/team/8ce22a46554a4e59cc40e76f1341c15a.png!w60",
-          "logo_khach": "https://img0.aiscore.com/football/team/f3123401a5cd110b4904193590685f14.png!w60",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img0.aiscore.com/football/team/8ce22a46554a4e59cc40e76f1341c15a.png!w60",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-11f2f227affc",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-11f2f227affc",
-                  "name": "Freetown City vs Ports Authority",
-                  "streams": [
-                    {
-                      "id": "bugio-11f2f227affc",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-54c30fb43b93",
-          "name": "⚽ Universitatea Craiova vs Ml Vitebsk | UEFA Champions League | 00:30 16/07",
-          "tournament": "UEFA Champions League",
-          "logo_nha": "https://media.api-sports.io/football/teams/632.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/7808.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/632.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-54c30fb43b93",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-54c30fb43b93",
-                  "name": "Universitatea Craiova vs Ml Vitebsk",
-                  "streams": [
-                    {
-                      "id": "bugio-54c30fb43b93",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-f5afd42209c4",
-          "name": "⚽ Atert Bissen vs Ki Klaksvik | UEFA Champions League | 01:15 16/07",
-          "tournament": "UEFA Champions League",
-          "logo_nha": "https://media.api-sports.io/football/teams/15847.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/701.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/15847.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-f5afd42209c4",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-f5afd42209c4",
-                  "name": "Atert Bissen vs Ki Klaksvik",
-                  "streams": [
-                    {
-                      "id": "bugio-f5afd42209c4",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-be39fc7aeedc",
-          "name": "⚽ Egnatia Rrogozhinë vs Petrocub | UEFA Champions League | 02:00 16/07",
-          "tournament": "UEFA Champions League",
-          "logo_nha": "https://media.api-sports.io/football/teams/3327.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/2271.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/3327.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-be39fc7aeedc",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-be39fc7aeedc",
-                  "name": "Egnatia Rrogozhinë vs Petrocub",
-                  "streams": [
-                    {
-                      "id": "bugio-be39fc7aeedc",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-fea56524092b",
-          "name": "⚽ England vs Argentina | World Cup | 02:00 16/07",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/10.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/26.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/10.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-fea56524092b",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-fea56524092b",
-                  "name": "England vs Argentina",
-                  "streams": [
-                    {
-                      "id": "bugio-fea56524092b",
                       "name": "F",
                       "stream_links": []
                     }
