@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "01:11 15/07/2026",
+  "last_updated": "01:20 15/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-341db63e25d8",
-          "name": "⚽ Levski Sofia vs Borac Banja Luka | UEFA Champions League | Hiệp 1 - 40'",
+          "name": "⚽ Levski Sofia vs Borac Banja Luka | UEFA Champions League | Giữa hiệp",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://media.api-sports.io/football/teams/646.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3364.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7c032bcbf3",
+                          "id": "lnk-db2b60252c",
                           "name": "BLV Pháo",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxk0gr3uomttgr31hcj18yzdnct1fitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8?wsSession=cc9469389394c0132e5f987b-178405268171794&wsIPSercert=42622e00729d695f411c573b810ad005&wsBindIP=2&wsserid=1168243256664118498"
+                          "url": "https://tfxk1gr4dymttgwanhc3sfaauccbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8?wsSession=e0d50cd290570128e5e6f664-178405326406591&wsIPSercert=e44df60226019b9a3b6f15930d56fde7&wsBindIP=2&wsserid=1168278404686366719"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "bugio-08a0dd50b47e",
-          "name": "⚽ Drita vs Kauno Žalgiris | UEFA Champions League | Hiệp 1 - 11'",
+          "name": "⚽ Drita vs Kauno Žalgiris | UEFA Champions League | Hiệp 1 - 19'",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://media.api-sports.io/football/teams/14281.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3872.png",
@@ -99,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a6f99a8566",
+                          "id": "lnk-ee652d5c19",
                           "name": "BLV Tiểu Mèo",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxk0gr3uomttgr31hcj18yzdnct1fitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8?wsSession=246725a627d5c8869b6a7484-178405268815067&wsIPSercert=42622e00729d695f411c573b810ad005&wsBindIP=2&wsserid=1168243343867022521"
+                          "url": "https://tfxk1gr4dymttgwanhc3sfaauccbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8?wsSession=af1d2b50939cd91abc041377-178405327035853&wsIPSercert=e44df60226019b9a3b6f15930d56fde7&wsBindIP=2&wsserid=1168282035636612515"
                         }
                       ]
                     }
