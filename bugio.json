@@ -1,155 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "04:11 15/07/2026",
+  "last_updated": "04:20 15/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-b0750a8064fe",
-          "name": "⚽ France vs Spain | World Cup | Kết thúc",
-          "tournament": "World Cup",
-          "logo_nha": "https://media.api-sports.io/football/teams/2.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/9.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-b0750a8064fe",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-b0750a8064fe",
-                  "name": "France vs Spain",
-                  "streams": [
-                    {
-                      "id": "bugio-b0750a8064fe",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5a8294303c",
-                          "name": "BLV Max",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-a967f8766c87",
-          "name": "⚽ Canada vs Argentina | Nations League | 10:00 15/07",
-          "tournament": "Nations League",
-          "logo_nha": "https://img0.aiscore.com/football/team/336e1c9ab6894a3b893c1ef45235a164.png!w60",
-          "logo_khach": "https://img0.aiscore.com/football/team/ef7329946e1741b9ade4fedbf739158a.png!w60",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img0.aiscore.com/football/team/336e1c9ab6894a3b893c1ef45235a164.png!w60",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-a967f8766c87",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-a967f8766c87",
-                  "name": "Canada vs Argentina",
-                  "streams": [
-                    {
-                      "id": "bugio-a967f8766c87",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-d58f0a972eaa",
-          "name": "⚽ Việt Nam vs Thái Lan | SEA V CUP 2026 | 13:00 15/07",
-          "tournament": "SEA V CUP 2026",
-          "logo_nha": "https://static.flashscore.com/res/image/data/nsORfhdM-AeUnl0mG.png",
-          "logo_khach": "https://static.flashscore.com/res/image/data/zDaxmTCr-CrkmOPt0.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://static.flashscore.com/res/image/data/nsORfhdM-AeUnl0mG.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-d58f0a972eaa",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-d58f0a972eaa",
-                  "name": "Việt Nam vs Thái Lan",
-                  "streams": [
-                    {
-                      "id": "bugio-d58f0a972eaa",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-b60874d0e523",
           "name": "⚽ Bỉ vs Cuba | Nations League | 13:30 15/07",
@@ -186,6 +43,51 @@
                   "streams": [
                     {
                       "id": "bugio-b60874d0e523",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-64b7771a63c8",
+          "name": "⚽ Việt Nam vs Thái Lan | SEA V CUP 2026 | 16:30 15/07",
+          "tournament": "SEA V CUP 2026",
+          "logo_nha": "https://img0.aiscore.com/football/team/0c620bcfc2a979fe9f22acbe0019f276.png!w60",
+          "logo_khach": "https://img0.aiscore.com/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w60",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img0.aiscore.com/football/team/0c620bcfc2a979fe9f22acbe0019f276.png!w60",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-64b7771a63c8",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-64b7771a63c8",
+                  "name": "Việt Nam vs Thái Lan",
+                  "streams": [
+                    {
+                      "id": "bugio-64b7771a63c8",
                       "name": "F",
                       "stream_links": []
                     }
@@ -456,6 +358,96 @@
                   "streams": [
                     {
                       "id": "bugio-eccc2e6e59f7",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-11f2f227affc",
+          "name": "⚽ Freetown City vs Ports Authority | Premier Sierra Leone | 23:15 15/07",
+          "tournament": "Premier Sierra Leone",
+          "logo_nha": "https://img0.aiscore.com/football/team/8ce22a46554a4e59cc40e76f1341c15a.png!w60",
+          "logo_khach": "https://img0.aiscore.com/football/team/f3123401a5cd110b4904193590685f14.png!w60",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img0.aiscore.com/football/team/8ce22a46554a4e59cc40e76f1341c15a.png!w60",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-11f2f227affc",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-11f2f227affc",
+                  "name": "Freetown City vs Ports Authority",
+                  "streams": [
+                    {
+                      "id": "bugio-11f2f227affc",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-54c30fb43b93",
+          "name": "⚽ Universitatea Craiova vs Ml Vitebsk | UEFA Champions League | 00:30 16/07",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/632.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/7808.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/632.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-54c30fb43b93",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-54c30fb43b93",
+                  "name": "Universitatea Craiova vs Ml Vitebsk",
+                  "streams": [
+                    {
+                      "id": "bugio-54c30fb43b93",
                       "name": "F",
                       "stream_links": []
                     }
