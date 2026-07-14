@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "19:41 14/07/2026",
+  "last_updated": "19:50 14/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-e5bbdf89d058",
-          "name": "⚽ Bhutan U19 vs Drukpa | Premier League | Chưa bắt đầu",
+          "name": "⚽ Bhutan U19 vs Drukpa | Premier League | Hiệp 1 - 45+'",
           "tournament": "Premier League",
           "logo_nha": "https://media.api-sports.io/football/teams/5433.png",
           "logo_khach": "https://media.api-sports.io/football/teams/27725.png",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6b870557c6",
+                          "id": "lnk-43a1c76b79",
                           "name": "BLV Chim Nhỏ",
                           "type": "hls",
                           "default": true,
