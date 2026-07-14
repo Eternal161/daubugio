@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "17:10 14/07/2026",
+  "last_updated": "17:21 14/07/2026",
   "groups": [
     {
       "id": "live",
@@ -233,6 +233,96 @@
           ]
         },
         {
+          "id": "bugio-341db63e25d8",
+          "name": "⚽ Levski Sofia vs Borac Banja Luka | UEFA Champions League | 00:30 15/07",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/646.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3364.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/646.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-341db63e25d8",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-341db63e25d8",
+                  "name": "Levski Sofia vs Borac Banja Luka",
+                  "streams": [
+                    {
+                      "id": "bugio-341db63e25d8",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-08a0dd50b47e",
+          "name": "⚽ Drita vs Kauno Žalgiris | UEFA Champions League | 01:00 15/07",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/14281.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3872.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/14281.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-08a0dd50b47e",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-08a0dd50b47e",
+                  "name": "Drita vs Kauno Žalgiris",
+                  "streams": [
+                    {
+                      "id": "bugio-08a0dd50b47e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "bugio-9d2c99e6e338",
           "name": "⚽ France vs Spain | World Cup | 02:00 15/07",
           "tournament": "World Cup",
@@ -268,6 +358,51 @@
                   "streams": [
                     {
                       "id": "bugio-9d2c99e6e338",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-d42e9a5fc4c9",
+          "name": "⚽ Larne vs Tre Fiori | UEFA Champions League | 02:00 15/07",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/5354.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2260.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5354.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-d42e9a5fc4c9",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-d42e9a5fc4c9",
+                  "name": "Larne vs Tre Fiori",
+                  "streams": [
+                    {
+                      "id": "bugio-d42e9a5fc4c9",
                       "name": "F",
                       "stream_links": []
                     }
