@@ -1,15 +1,15 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "02:20 15/07/2026",
+  "last_updated": "02:31 15/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
         {
-          "id": "bugio-115268f94126",
-          "name": "⚽ France vs Spain | World Cup | Hiệp 1 - 19'",
+          "id": "bugio-5ea27d5519d2",
+          "name": "⚽ France vs Spain | World Cup | Hiệp 1 - 30'",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/2.png",
           "logo_khach": "https://media.api-sports.io/football/teams/9.png",
@@ -34,37 +34,30 @@
           ],
           "sources": [
             {
-              "id": "bugio-115268f94126",
+              "id": "bugio-5ea27d5519d2",
               "name": "Bù  Giờ TV",
               "contents": [
                 {
-                  "id": "bugio-115268f94126",
+                  "id": "bugio-5ea27d5519d2",
                   "name": "France vs Spain",
                   "streams": [
                     {
-                      "id": "bugio-115268f94126",
+                      "id": "bugio-5ea27d5519d2",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-afcfa3674d",
-                          "name": "BLV Tiểu Trà Đá",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxk1gr3uomttgr31hcj3fa3dkcbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8?wsSession=2f799863f55cde7f365f1337-178405686117071&wsIPSercert=ad494b4afd3bfd0cca8676ddc4834917&wsBindIP=2&wsserid=1168168154460945005"
-                        },
-                        {
-                          "id": "lnk-35dec1bb1f",
+                          "id": "lnk-3e4a861ca7",
                           "name": "BLV Kevin",
                           "type": "hls",
-                          "default": false,
-                          "url": "https://tfxk1gr3uomttgr31hcj3fa3dkcbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=2f799863f55cde7f365f1337-178405686755381&wsIPSercert=ad494b4afd3bfd0cca8676ddc4834917&wsBindIP=2&wsserid=1168168154460945005"
+                          "default": true,
+                          "url": "https://tfxk0gr4uqmtt8y41hcjsgyzdnctafitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=c002e63a1aa1d66f956b6b0f-178405747372852&wsIPSercert=1e9e1cc0abef795f8b652ac31b1f24b3&wsBindIP=2&wsserid=1168283323316355946"
                         },
                         {
-                          "id": "lnk-9081a5e709",
+                          "id": "lnk-e37fd9029a",
                           "name": "BLV Max",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxk1gr3uomttgr31hcj3fa3dkcbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=2f799863f55cde7f365f1337-178405687396384&wsIPSercert=ad494b4afd3bfd0cca8676ddc4834917&wsBindIP=2&wsserid=1168168154460945005"
+                          "url": "https://tfxk0gr4uqmtt8y41hcjsgyzdnctafitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=c002e63a1aa1d66f956b6b0f-178405748051757&wsIPSercert=1e9e1cc0abef795f8b652ac31b1f24b3&wsBindIP=2&wsserid=1168283323316355946"
                         }
                       ]
                     }
