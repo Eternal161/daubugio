@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "00:40 15/07/2026",
+  "last_updated": "00:50 15/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-341db63e25d8",
-          "name": "⚽ Levski Sofia vs Borac Banja Luka | UEFA Champions League | Hiệp 1 - 10'",
+          "name": "⚽ Levski Sofia vs Borac Banja Luka | UEFA Champions League | Hiệp 1 - 20'",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://media.api-sports.io/football/teams/646.png",
           "logo_khach": "https://media.api-sports.io/football/teams/3364.png",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3321db2472",
+                          "id": "lnk-d777768e3e",
                           "name": "BLV Pháo",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxk0gr4uqmtt8y41hcjsgyzdnpbufitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8?wsSession=a1d4d903403a5b6681a5aad7-178405086329863&wsIPSercert=c68bbaa9dbb0b4efec830f35109bffaf&wsBindIP=2&wsserid=1168231589600130483"
+                          "url": "https://tfxk0gr4uqmtt8y41hcjzgazdnc3ofitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8?wsSession=b39c87c31767fa1869f55d0f-178405146173685&wsIPSercert=350aa1c41636309c3b224f991052015d&wsBindIP=2&wsserid=1168214264157033838"
                         }
                       ]
                     }
@@ -99,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a7a9cf9cf5",
+                          "id": "lnk-c0a1e5b2cc",
                           "name": "BLV Tiểu Mèo",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxk0gr4uqmtt8y41hcjsgyzdnpbufitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8?wsSession=a1d4d903403a5b6681a5aad7-178405086940727&wsIPSercert=c68bbaa9dbb0b4efec830f35109bffaf&wsBindIP=2&wsserid=1168231589600130483"
+                          "url": "https://tfxk0gr4uqmtt8y41hcjzgazdnc3ofitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8?wsSession=5040aed525d53c4c1c737a9d-178405146838370&wsIPSercert=350aa1c41636309c3b224f991052015d&wsBindIP=2&wsserid=1168214263215191710"
                         }
                       ]
                     }
