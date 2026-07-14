@@ -1,12 +1,479 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "20:11 14/07/2026",
+  "last_updated": "20:21 14/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
-      "channels": []
+      "channels": [
+        {
+          "id": "bugio-6ceb97cdf66b",
+          "name": "⚽ Hangzhou Greentown vs Qingdao Jonoon | Super League | Hiệp 2 - 83'",
+          "tournament": "Super League",
+          "logo_nha": "https://media.api-sports.io/football/teams/848.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/1431.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/848.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-6ceb97cdf66b",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-6ceb97cdf66b",
+                  "name": "Hangzhou Greentown vs Qingdao Jonoon",
+                  "streams": [
+                    {
+                      "id": "bugio-6ceb97cdf66b",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-52e2e9c4ab",
+                          "name": "BLV Pháo",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxk3gr4dymttgwanhc3sfa4urmmnc7sg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178403526910397&wsIPSercert=b16a524fb648970698a176da17a1b80e&wsBindIP=2&wsserid=1177063474761571144"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-e5bbdf89d058",
+          "name": "⚽ Bhutan U19 vs Drukpa | Premier League | Hiệp 2 - 63'",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/5433.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/27725.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5433.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-e5bbdf89d058",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-e5bbdf89d058",
+                  "name": "Bhutan U19 vs Drukpa",
+                  "streams": [
+                    {
+                      "id": "bugio-e5bbdf89d058",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc73de26de",
+                          "name": "BLV Chim Nhỏ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-e697a20d691e",
+          "name": "⚽ Muras United vs Bars | Premier League | 21:00 14/07",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/21167.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/25765.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/21167.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-e697a20d691e",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-e697a20d691e",
+                  "name": "Muras United vs Bars",
+                  "streams": [
+                    {
+                      "id": "bugio-e697a20d691e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-6f11e0da11a4",
+          "name": "⚽ Saburtalo vs Flora Tallinn | UEFA Champions League | 23:00 14/07",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/3502.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/687.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3502.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-6f11e0da11a4",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-6f11e0da11a4",
+                  "name": "Saburtalo vs Flora Tallinn",
+                  "streams": [
+                    {
+                      "id": "bugio-6f11e0da11a4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-73fb2b372a53",
+          "name": "⚽ Inter Club D'Escaldes vs Lincoln Red Imps Fc | UEFA Champions League | 23:00 14/07",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/3342.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/667.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3342.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-73fb2b372a53",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-73fb2b372a53",
+                  "name": "Inter Club D'Escaldes vs Lincoln Red Imps Fc",
+                  "streams": [
+                    {
+                      "id": "bugio-73fb2b372a53",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-341db63e25d8",
+          "name": "⚽ Levski Sofia vs Borac Banja Luka | UEFA Champions League | 00:30 15/07",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/646.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3364.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/646.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-341db63e25d8",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-341db63e25d8",
+                  "name": "Levski Sofia vs Borac Banja Luka",
+                  "streams": [
+                    {
+                      "id": "bugio-341db63e25d8",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-08a0dd50b47e",
+          "name": "⚽ Drita vs Kauno Žalgiris | UEFA Champions League | 01:00 15/07",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/14281.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/3872.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/14281.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-08a0dd50b47e",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-08a0dd50b47e",
+                  "name": "Drita vs Kauno Žalgiris",
+                  "streams": [
+                    {
+                      "id": "bugio-08a0dd50b47e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-9d2c99e6e338",
+          "name": "⚽ France vs Spain | World Cup | 02:00 15/07",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/2.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/9.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-9d2c99e6e338",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-9d2c99e6e338",
+                  "name": "France vs Spain",
+                  "streams": [
+                    {
+                      "id": "bugio-9d2c99e6e338",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-306550f63911",
+          "name": "⚽ Tensung vs Thimphu City | Premier League | 17:00 15/07",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/5590.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/5592.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/5590.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-306550f63911",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-306550f63911",
+                  "name": "Tensung vs Thimphu City",
+                  "streams": [
+                    {
+                      "id": "bugio-306550f63911",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-0c5126b4df58",
+          "name": "⚽ Cheonan City vs Mokpo City | FA Cup | 17:30 15/07",
+          "tournament": "FA Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/7060.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/7096.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/7060.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-0c5126b4df58",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-0c5126b4df58",
+                  "name": "Cheonan City vs Mokpo City",
+                  "streams": [
+                    {
+                      "id": "bugio-0c5126b4df58",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
