@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "22:31 14/07/2026",
+  "last_updated": "22:41 14/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-6f11e0da11a4",
-          "name": "⚽ Saburtalo vs Flora Tallinn | UEFA Champions League | 23:00 14/07",
+          "name": "⚽ Saburtalo vs Flora Tallinn | UEFA Champions League | Đang diễn ra",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://media.api-sports.io/football/teams/3502.png",
           "logo_khach": "https://media.api-sports.io/football/teams/687.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "bugio-6f11e0da11a4",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc5bd5baff",
+                          "name": "BLV Max",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxk1gr4dymttgwanhc3sfaauccbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=8cf16018a08d5f7837063995-178404368005011&wsIPSercert=ce04b450d1c36935c11a3aaa41881b78&wsBindIP=2&wsserid=1168278313568844709"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -54,7 +62,7 @@
         },
         {
           "id": "bugio-73fb2b372a53",
-          "name": "⚽ Inter Club D'Escaldes vs Lincoln Red Imps Fc | UEFA Champions League | 23:00 14/07",
+          "name": "⚽ Inter Club D'Escaldes vs Lincoln Red Imps Fc | UEFA Champions League | Đang diễn ra",
           "tournament": "UEFA Champions League",
           "logo_nha": "https://media.api-sports.io/football/teams/3342.png",
           "logo_khach": "https://media.api-sports.io/football/teams/667.png",
@@ -71,10 +79,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -89,7 +97,15 @@
                     {
                       "id": "bugio-73fb2b372a53",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-96d805a6d4",
+                          "name": "BLV Kevin",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxk1gr4dymttgwanhc3sfaauccbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=349560c79a44166872039751-178404368654474&wsIPSercert=ce04b450d1c36935c11a3aaa41881b78&wsBindIP=2&wsserid=1168282035622980969"
+                        }
+                      ]
                     }
                   ]
                 }
