@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "16:10 14/07/2026",
+  "last_updated": "16:20 14/07/2026",
   "groups": [
     {
       "id": "live",
@@ -223,6 +223,51 @@
                   "streams": [
                     {
                       "id": "bugio-73fb2b372a53",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-9d2c99e6e338",
+          "name": "⚽ France vs Spain | World Cup | 02:00 15/07",
+          "tournament": "World Cup",
+          "logo_nha": "https://media.api-sports.io/football/teams/2.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/9.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-9d2c99e6e338",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-9d2c99e6e338",
+                  "name": "France vs Spain",
+                  "streams": [
+                    {
+                      "id": "bugio-9d2c99e6e338",
                       "name": "F",
                       "stream_links": []
                     }
