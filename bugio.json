@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "04:20 15/07/2026",
+  "last_updated": "04:31 15/07/2026",
   "groups": [
     {
       "id": "live",
@@ -53,8 +53,8 @@
           ]
         },
         {
-          "id": "bugio-64b7771a63c8",
-          "name": "⚽ Việt Nam vs Thái Lan | SEA V CUP 2026 | 16:30 15/07",
+          "id": "bugio-83ff630c0e07",
+          "name": "⚽ Philippines vs Campuchia | SEA V CUP 2026 | 16:30 15/07",
           "tournament": "SEA V CUP 2026",
           "logo_nha": "https://img0.aiscore.com/football/team/0c620bcfc2a979fe9f22acbe0019f276.png!w60",
           "logo_khach": "https://img0.aiscore.com/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w60",
@@ -79,15 +79,15 @@
           ],
           "sources": [
             {
-              "id": "bugio-64b7771a63c8",
+              "id": "bugio-83ff630c0e07",
               "name": "Bù  Giờ TV",
               "contents": [
                 {
-                  "id": "bugio-64b7771a63c8",
-                  "name": "Việt Nam vs Thái Lan",
+                  "id": "bugio-83ff630c0e07",
+                  "name": "Philippines vs Campuchia",
                   "streams": [
                     {
-                      "id": "bugio-64b7771a63c8",
+                      "id": "bugio-83ff630c0e07",
                       "name": "F",
                       "stream_links": []
                     }
@@ -413,11 +413,11 @@
           ]
         },
         {
-          "id": "bugio-54c30fb43b93",
-          "name": "⚽ Universitatea Craiova vs Ml Vitebsk | UEFA Champions League | 00:30 16/07",
-          "tournament": "UEFA Champions League",
-          "logo_nha": "https://media.api-sports.io/football/teams/632.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/7808.png",
+          "id": "bugio-c6d75b20c8a0",
+          "name": "⚽ Bulgaria vs Ba Lan | Nations League | 00:00 16/07",
+          "tournament": "Nations League",
+          "logo_nha": "https://img0.aiscore.com/volleyball/team/08aa5dd1a56ff6608cc0986aa1581d2c.png!w250",
+          "logo_khach": "https://flagcdn.com/w320/pl.png",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -425,7 +425,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/632.png",
+            "url": "https://img0.aiscore.com/volleyball/team/08aa5dd1a56ff6608cc0986aa1581d2c.png!w250",
             "width": 1600,
             "height": 1200
           },
@@ -439,15 +439,15 @@
           ],
           "sources": [
             {
-              "id": "bugio-54c30fb43b93",
+              "id": "bugio-c6d75b20c8a0",
               "name": "Bù  Giờ TV",
               "contents": [
                 {
-                  "id": "bugio-54c30fb43b93",
-                  "name": "Universitatea Craiova vs Ml Vitebsk",
+                  "id": "bugio-c6d75b20c8a0",
+                  "name": "Bulgaria vs Ba Lan",
                   "streams": [
                     {
-                      "id": "bugio-54c30fb43b93",
+                      "id": "bugio-c6d75b20c8a0",
                       "name": "F",
                       "stream_links": []
                     }
