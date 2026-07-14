@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "01:51 15/07/2026",
+  "last_updated": "02:01 15/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,25 +46,25 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-221c7aae1e",
+                          "id": "lnk-1df6ee4623",
                           "name": "BLV Tiểu Trà Đá",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxk1gr4uqmtt8y41hcjsgyzdkcjpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8?wsSession=b468ab79432469a78079810f-178405506923946&wsIPSercert=d37145ed80179cb7fcac178174d72e51&wsBindIP=2&wsserid=1168283323342570444"
+                          "url": "https://tfxk1gr4dymttgwanhc3sfaauccbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178405568002536&wsIPSercert=5bcbcba94280b9e462abcbe124849fff&wsBindIP=2&wsserid=1168278313570948617"
                         },
                         {
-                          "id": "lnk-32ad0253ae",
+                          "id": "lnk-143b322cbf",
                           "name": "BLV Kevin",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxk1gr4uqmtt8y41hcjsgyzdkcjpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=2da5aa785b400d749e5c0d1c-178405507626574&wsIPSercert=d37145ed80179cb7fcac178174d72e51&wsBindIP=2&wsserid=1168283323355153405"
+                          "url": "https://tfxk1gr4dymttgwanhc3sfaauccbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178405568654572&wsIPSercert=5bcbcba94280b9e462abcbe124849fff&wsBindIP=2&wsserid=1168278313570948617"
                         },
                         {
-                          "id": "lnk-30899a8133",
+                          "id": "lnk-4b937da739",
                           "name": "BLV Max",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxk1gr4uqmtt8y41hcjsgyzdkcjpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=d50ab20a33cd1e3fab7f76e4-178405508277733&wsIPSercert=d37145ed80179cb7fcac178174d72e51&wsBindIP=2&wsserid=1168283323380319328"
+                          "url": "https://tfxk1gr4dymttgwanhc3sfaauccbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=c5cc06ef296aae613652e5bf-178405569298301&wsIPSercert=5bcbcba94280b9e462abcbe124849fff&wsBindIP=2&wsserid=1168278313570948617"
                         }
                       ]
                     }
