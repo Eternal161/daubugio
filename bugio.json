@@ -1,15 +1,121 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "02:01 16/07/2026",
+  "last_updated": "02:10 16/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
         {
+          "id": "bugio-54c30fb43b93",
+          "name": "⚽ Universitatea Craiova vs Ml Vitebsk | UEFA Champions League | Hiệp 2 - 80'",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/632.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/7808.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/632.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-54c30fb43b93",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-54c30fb43b93",
+                  "name": "Universitatea Craiova vs Ml Vitebsk",
+                  "streams": [
+                    {
+                      "id": "bugio-54c30fb43b93",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7ede62639c",
+                          "name": "BLV Mao Từn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-be39fc7aeedc",
+          "name": "⚽ Egnatia Rrogozhinë vs Petrocub | UEFA Champions League | Hiệp 1 - 10'",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/3327.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2271.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3327.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-be39fc7aeedc",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-be39fc7aeedc",
+                  "name": "Egnatia Rrogozhinë vs Petrocub",
+                  "streams": [
+                    {
+                      "id": "bugio-be39fc7aeedc",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-013106e4e1",
+                          "name": "BLV Pháo",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "bugio-fea56524092b",
-          "name": "⚽ England vs Argentina | World Cup | Đang diễn ra",
+          "name": "⚽ England vs Argentina | World Cup | Hiệp 1 - 9'",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/10.png",
           "logo_khach": "https://media.api-sports.io/football/teams/26.png",
@@ -46,32 +152,32 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-47026e5d8a",
+                          "id": "lnk-566e7a727d",
                           "name": "BLV Tiểu Trà Đá",
                           "type": "hls",
                           "default": true,
-                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8"
+                          "url": "https://tfxl0gr4uqmtt8y41hcjsgyzdnctafitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8?wsSession=c98fb645e2cab09a3fa40f79-178414266427164&wsIPSercert=c024770f61abd8c6d5e48c1d8540b801&wsBindIP=2&wsserid=1168283618402913555"
                         },
                         {
-                          "id": "lnk-cbbe0c6a0d",
+                          "id": "lnk-0aca1520c7",
                           "name": "BLV Kevin",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxl1gr3domtzgwzdrpjufa3dnp3pcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=c10305575089ffd939943e18-178414209261827&wsIPSercert=7b051f2259021c5ba2be12c94336741b&wsBindIP=2&wsserid=1168261192253410485"
+                          "url": "https://tfxl0gr4uqmtt8y41hcjsgyzdnctafitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=2da5aa785b400d749e5c0d1c-178414267073626&wsIPSercert=c024770f61abd8c6d5e48c1d8540b801&wsBindIP=2&wsserid=1168283323355153405"
                         },
                         {
-                          "id": "lnk-20507c18fc",
+                          "id": "lnk-662aaed7f9",
                           "name": "BLV Chim Nhỏ",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxl1gr3domtzgwzdrpjufa3dnp3pcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=27245cc462840e68ab7110ab-178414210090529&wsIPSercert=7b051f2259021c5ba2be12c94336741b&wsBindIP=2&wsserid=1168261015863523075"
+                          "url": "https://tfxl0gr4uqmtt8y41hcjsgyzdnctafitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=4f5605f94f7e28b0acf59620-178414267725217&wsIPSercert=c024770f61abd8c6d5e48c1d8540b801&wsBindIP=2&wsserid=1168283477179400067"
                         },
                         {
-                          "id": "lnk-95a13dfd7e",
+                          "id": "lnk-b62e20c07c",
                           "name": "BLV Max",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxl1gr3domtzgwzdrpjufa3dnp3pcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=3ea4c31d71c5f3367867e9d2-178414210555331&wsIPSercert=7b051f2259021c5ba2be12c94336741b&wsBindIP=2&wsserid=1168261015854085723"
+                          "url": "https://tfxl0gr4uqmtt8y41hcjsgyzdnctafitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=d50ab20a33cd1e3fab7f76e4-178414268399128&wsIPSercert=c024770f61abd8c6d5e48c1d8540b801&wsBindIP=2&wsserid=1168283323380319328"
                         }
                       ]
                     }
@@ -387,96 +493,6 @@
                   "streams": [
                     {
                       "id": "bugio-d4b7c7780276",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-b417e8534c58",
-          "name": "⚽ Nhật Bản vs Canada | Nations League | 17:20 16/07",
-          "tournament": "Nations League",
-          "logo_nha": "https://flagcdn.com/w320/jp.png",
-          "logo_khach": "https://flagcdn.com/w320/ca.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://flagcdn.com/w320/jp.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-b417e8534c58",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-b417e8534c58",
-                  "name": "Nhật Bản vs Canada",
-                  "streams": [
-                    {
-                      "id": "bugio-b417e8534c58",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-775f3c5fda1f",
-          "name": "⚽ Ekibastuz vs Shakhter Karagandy | 1. Division | 19:00 16/07",
-          "tournament": "1. Division",
-          "logo_nha": "https://media.api-sports.io/football/teams/4551.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/4566.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/4551.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-775f3c5fda1f",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-775f3c5fda1f",
-                  "name": "Ekibastuz vs Shakhter Karagandy",
-                  "streams": [
-                    {
-                      "id": "bugio-775f3c5fda1f",
                       "name": "F",
                       "stream_links": []
                     }
