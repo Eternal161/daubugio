@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "17:50 15/07/2026",
+  "last_updated": "18:01 15/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-a6293f6fa8",
+                          "id": "lnk-6955f7b314",
                           "name": "BLV Pháo",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxl0gr4uqmtt8y41hcjsgyzdnpbafitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8?wsSession=a1d4d903403a5b6681a5aad7-178411266673493&wsIPSercert=fc9681e1d570b4d4468dee4194328989&wsBindIP=2&wsserid=1168231589600130483"
+                          "url": "https://tfxl1gr3uomttgr31hctsfaau1ptpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178411327101418&wsIPSercert=9cc18a88678ea2808eaba06c8f2e2412&wsBindIP=2&wsserid=1177063474757376778"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "bugio-0c5126b4df58",
-          "name": "⚽ Cheonan City vs Mokpo City | FA Cup | Hiệp 1 - 18'",
+          "name": "⚽ Cheonan City vs Mokpo City | FA Cup | Hiệp 1 - 28'",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/7060.png",
           "logo_khach": "https://media.api-sports.io/football/teams/7096.png",
@@ -99,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-454fde9150",
+                          "id": "lnk-7df41e0e41",
                           "name": "BLV Max",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxl0gr4uqmtt8y41hcjsgyzdnpbafitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=2b146be960692448c3ec925f-178411267338265&wsIPSercert=fc9681e1d570b4d4468dee4194328989&wsBindIP=2&wsserid=1168231785609677651"
+                          "url": "https://tfxl1gr3uomttgr31hctsfaau1ptpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=7d7d8c99c06f93d847c9d109-178411327738815&wsIPSercert=9cc18a88678ea2808eaba06c8f2e2412&wsBindIP=2&wsserid=1177063474750036592"
                         }
                       ]
                     }
@@ -152,7 +152,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-07e4833fc2",
+                          "id": "lnk-804ca2d77a",
                           "name": "BLV Chim Nhỏ",
                           "type": "hls",
                           "default": true,
