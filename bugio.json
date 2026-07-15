@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "02:40 16/07/2026",
+  "last_updated": "02:51 16/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-fea56524092b",
-          "name": "⚽ England vs Argentina | World Cup | Hiệp 1 - 39'",
+          "name": "⚽ England vs Argentina | World Cup | Giữa hiệp",
           "tournament": "World Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/10.png",
           "logo_khach": "https://media.api-sports.io/football/teams/26.png",
@@ -46,32 +46,32 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8c37b99804",
+                          "id": "lnk-228d22576b",
                           "name": "BLV Tiểu Trà Đá",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxl1gr3domtzgwzdrpjufaaukpbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8?wsSession=b51db410091cefed53270711-178414446308256&wsIPSercert=7ce7885dd74adf8dfde9b3ebd588f31a&wsBindIP=2&wsserid=1168261056861671413"
+                          "url": "https://tfxl0gr4uqmtt8y41hcjw8yzdnpjufitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8?wsSession=3ccefa48e510df8195afcf92-178414506857539&wsIPSercert=0e048e8525fe03d3230047aa4661191f&wsBindIP=2&wsserid=1168202333418134578"
                         },
                         {
-                          "id": "lnk-7a8f854d96",
+                          "id": "lnk-cffd6c90eb",
                           "name": "BLV Kevin",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxl1gr3domtzgwzdrpjufaaukpbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=b51db410091cefed53270711-178414446916766&wsIPSercert=7ce7885dd74adf8dfde9b3ebd588f31a&wsBindIP=2&wsserid=1168261056861671413"
+                          "url": "https://tfxl0gr4uqmtt8y41hcjw8yzdnpjufitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8?wsSession=43280c1c975363fe81a8d8d5-178414507490079&wsIPSercert=0e048e8525fe03d3230047aa4661191f&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-2ca04a61d6",
+                          "id": "lnk-81a285321d",
                           "name": "BLV Chim Nhỏ",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxl1gr3domtzgwzdrpjufaaukpbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=27245cc462840e68ab7110ab-178414447612522&wsIPSercert=7ce7885dd74adf8dfde9b3ebd588f31a&wsBindIP=2&wsserid=1168261015863523075"
+                          "url": "https://tfxl0gr4uqmtt8y41hcjw8yzdnpjufitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=43280c1c975363fe81a8d8d5-178414508142625&wsIPSercert=0e048e8525fe03d3230047aa4661191f&wsBindIP=2&wsserid=1168202392933970899"
                         },
                         {
-                          "id": "lnk-9cc2ade569",
+                          "id": "lnk-a8a9ed3b0a",
                           "name": "BLV Max",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfxl1gr3domtzgwzdrpjufaaukpbpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=3ea4c31d71c5f3367867e9d2-178414448236734&wsIPSercert=7ce7885dd74adf8dfde9b3ebd588f31a&wsBindIP=2&wsserid=1168261015854085723"
+                          "url": "https://tfxl0gr4uqmtt8y41hcjw8yzdnpjufitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=43280c1c975363fe81a8d8d5-178414508772986&wsIPSercert=0e048e8525fe03d3230047aa4661191f&wsBindIP=2&wsserid=1168202392933970899"
                         }
                       ]
                     }
