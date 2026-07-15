@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "17:20 15/07/2026",
+  "last_updated": "17:31 15/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6542683220",
+                          "id": "lnk-0d76ee8ab3",
                           "name": "BLV Pháo",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxl0gr4uqmtt8y41hcjsgyzdnpbwfitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8?wsSession=7c7d106456981d78de4f4a4d-178411085435400&wsIPSercert=29579427467c5bd54da1e7f75979579d&wsBindIP=2&wsserid=1168283323277558487"
+                          "url": "https://tfxl1gr4uqmtt8y41hcjwgwzdocjpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8?wsSession=fe98348b1e299f1542a9c7d2-178411148167603&wsIPSercert=6a0ed1bd9394a25ab59a0fe1e238b7d3&wsBindIP=2&wsserid=1168176581104105640"
                         }
                       ]
                     }
@@ -99,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-75cba541ba",
+                          "id": "lnk-e823bb2b98",
                           "name": "BLV Max",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxl0gr4uqmtt8y41hcjsgyzdnpbwfitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=d50ab20a33cd1e3fab7f76e4-178411086080188&wsIPSercert=29579427467c5bd54da1e7f75979579d&wsBindIP=2&wsserid=1168283323380319328"
+                          "url": "https://tfxl1gr4uqmtt8y41hcjwgwzdocjpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=fe98348b1e299f1542a9c7d2-178411148794336&wsIPSercert=6a0ed1bd9394a25ab59a0fe1e238b7d3&wsBindIP=2&wsserid=1168176581104105640"
                         }
                       ]
                     }
