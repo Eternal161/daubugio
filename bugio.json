@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "22:40 15/07/2026",
+  "last_updated": "22:50 15/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-11f2f227affc",
-          "name": "⚽ Freetown City vs Ports Authority | Premier Sierra Leone | 23:15 15/07",
+          "name": "⚽ Freetown City vs Ports Authority | Premier Sierra Leone | Đang diễn ra - 23:15",
           "tournament": "Premier Sierra Leone",
           "logo_nha": "https://img0.aiscore.com/football/team/8ce22a46554a4e59cc40e76f1341c15a.png!w60",
           "logo_khach": "https://img0.aiscore.com/football/team/f3123401a5cd110b4904193590685f14.png!w60",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "bugio-11f2f227affc",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-dd0d52ed3f",
+                          "name": "BLV Pháo",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
