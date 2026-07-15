@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "19:01 15/07/2026",
+  "last_updated": "19:11 15/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,7 +46,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5fb3759f63",
+                          "id": "lnk-02fdf73749",
                           "name": "BLV Tiểu Mèo",
                           "type": "hls",
                           "default": true,
