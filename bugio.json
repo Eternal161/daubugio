@@ -1,57 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "15:10 15/07/2026",
+  "last_updated": "15:20 15/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-306550f63911",
-          "name": "⚽ Tensung vs Thimphu City | Premier League | 17:00 15/07",
-          "tournament": "Premier League",
-          "logo_nha": "https://media.api-sports.io/football/teams/5590.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/5592.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/5590.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-306550f63911",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-306550f63911",
-                  "name": "Tensung vs Thimphu City",
-                  "streams": [
-                    {
-                      "id": "bugio-306550f63911",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-5bcabfb176ae",
           "name": "⚽ Nhật Bản vs Ý | Nations League | 17:20 15/07",
@@ -448,6 +403,51 @@
                   "streams": [
                     {
                       "id": "bugio-f5afd42209c4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-be39fc7aeedc",
+          "name": "⚽ Egnatia Rrogozhinë vs Petrocub | UEFA Champions League | 02:00 16/07",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/3327.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2271.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3327.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-be39fc7aeedc",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-be39fc7aeedc",
+                  "name": "Egnatia Rrogozhinë vs Petrocub",
+                  "streams": [
+                    {
+                      "id": "bugio-be39fc7aeedc",
                       "name": "F",
                       "stream_links": []
                     }
