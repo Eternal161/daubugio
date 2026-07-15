@@ -1,57 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "19:40 15/07/2026",
+  "last_updated": "19:51 15/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-eccc2e6e59f7",
-          "name": "⚽ Malisheva vs Vllaznia Shkodër | UEFA Europa Conference League | 21:30 15/07",
-          "tournament": "UEFA Europa Conference League",
-          "logo_nha": "https://media.api-sports.io/football/teams/15576.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/3339.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/15576.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-eccc2e6e59f7",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-eccc2e6e59f7",
-                  "name": "Malisheva vs Vllaznia Shkodër",
-                  "streams": [
-                    {
-                      "id": "bugio-eccc2e6e59f7",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-11f2f227affc",
           "name": "⚽ Freetown City vs Ports Authority | Premier Sierra Leone | 23:15 15/07",
@@ -448,6 +403,51 @@
                   "streams": [
                     {
                       "id": "bugio-dee6f5b8911d",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-2cba2eb9958e",
+          "name": "⚽ Bỉ vs Ý | Nations League | 13:30 16/07",
+          "tournament": "Nations League",
+          "logo_nha": "https://flagcdn.com/w320/be.png",
+          "logo_khach": "https://flagcdn.com/w320/it.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://flagcdn.com/w320/be.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-2cba2eb9958e",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-2cba2eb9958e",
+                  "name": "Bỉ vs Ý",
+                  "streams": [
+                    {
+                      "id": "bugio-2cba2eb9958e",
                       "name": "F",
                       "stream_links": []
                     }
