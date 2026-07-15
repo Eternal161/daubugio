@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "18:01 15/07/2026",
+  "last_updated": "18:10 15/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6955f7b314",
+                          "id": "lnk-9d3449020a",
                           "name": "BLV Pháo",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxl1gr3uomttgr31hctsfaau1ptpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8?wsSession=c0f336b6f1bc93956b134323-178411327101418&wsIPSercert=9cc18a88678ea2808eaba06c8f2e2412&wsBindIP=2&wsserid=1177063474757376778"
+                          "url": "https://tfxl0gr4uqmtt8y41hcjsgyzdnpbufitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8?wsSession=a1d4d903403a5b6681a5aad7-178411385581069&wsIPSercert=675e0fe2b971595bf6da001f920dd806&wsBindIP=2&wsserid=1168231589600130483"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "bugio-0c5126b4df58",
-          "name": "⚽ Cheonan City vs Mokpo City | FA Cup | Hiệp 1 - 28'",
+          "name": "⚽ Cheonan City vs Mokpo City | FA Cup | Hiệp 1 - 38'",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/7060.png",
           "logo_khach": "https://media.api-sports.io/football/teams/7096.png",
@@ -99,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7df41e0e41",
+                          "id": "lnk-02a1208de8",
                           "name": "BLV Max",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxl1gr3uomttgr31hctsfaau1ptpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=7d7d8c99c06f93d847c9d109-178411327738815&wsIPSercert=9cc18a88678ea2808eaba06c8f2e2412&wsBindIP=2&wsserid=1177063474750036592"
+                          "url": "https://tfxl0gr4uqmtt8y41hcjsgyzdnpbufitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=2b146be960692448c3ec925f-178411386289353&wsIPSercert=675e0fe2b971595bf6da001f920dd806&wsBindIP=2&wsserid=1168231785609677651"
                         }
                       ]
                     }
@@ -152,7 +152,7 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-804ca2d77a",
+                          "id": "lnk-b2be968bb3",
                           "name": "BLV Chim Nhỏ",
                           "type": "hls",
                           "default": true,
@@ -168,7 +168,7 @@
         },
         {
           "id": "bugio-e935743688c0",
-          "name": "⚽ Wuhan Jiangda Nữ vs Shandong Sl Nữ | Ngoại Hạng Trung Quốc Nữ | 18:35 15/07",
+          "name": "⚽ Wuhan Jiangda Nữ vs Shandong Sl Nữ | Ngoại Hạng Trung Quốc Nữ | Đang diễn ra - 18:35",
           "tournament": "Ngoại Hạng Trung Quốc Nữ",
           "logo_nha": "https://img0.aiscore.com/football/team/e5c9882eac2bcd64767b4cdb6544dcd7.png!w60",
           "logo_khach": "https://img0.aiscore.com/football/team/563ea9a0da488aaf3e046961e2c3dc99.png!w60",
@@ -185,10 +185,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -203,7 +203,15 @@
                     {
                       "id": "bugio-e935743688c0",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-9e7b73ef2b",
+                          "name": "BLV Tiểu Mèo",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
