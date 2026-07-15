@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "16:50 15/07/2026",
+  "last_updated": "17:01 15/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-5bcabfb176ae",
-          "name": "⚽ Nhật Bản vs Ý | Nations League | 17:20 15/07",
+          "name": "⚽ Nhật Bản vs Ý | Nations League | Đang diễn ra - 17:20",
           "tournament": "Nations League",
           "logo_nha": "https://img0.aiscore.com/football/team/871d73474b2d6b307fe3862403e9c77d.png!w60",
           "logo_khach": "https://img0.aiscore.com/football/team/d3cf991cf96ba15132ed236fa0cad5a5.png!w60",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "bugio-5bcabfb176ae",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-8958045734",
+                          "name": "BLV Pháo",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
