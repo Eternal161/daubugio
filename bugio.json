@@ -1,57 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "14:51 15/07/2026",
+  "last_updated": "15:01 15/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-83ff630c0e07",
-          "name": "⚽ Philippines vs Campuchia | SEA V CUP 2026 | 16:30 15/07",
-          "tournament": "SEA V CUP 2026",
-          "logo_nha": "https://img0.aiscore.com/football/team/0c620bcfc2a979fe9f22acbe0019f276.png!w60",
-          "logo_khach": "https://img0.aiscore.com/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w60",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img0.aiscore.com/football/team/0c620bcfc2a979fe9f22acbe0019f276.png!w60",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-83ff630c0e07",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-83ff630c0e07",
-                  "name": "Philippines vs Campuchia",
-                  "streams": [
-                    {
-                      "id": "bugio-83ff630c0e07",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-306550f63911",
           "name": "⚽ Tensung vs Thimphu City | Premier League | 17:00 15/07",
@@ -448,6 +403,51 @@
                   "streams": [
                     {
                       "id": "bugio-54c30fb43b93",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-f5afd42209c4",
+          "name": "⚽ Atert Bissen vs Ki Klaksvik | UEFA Champions League | 01:15 16/07",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/15847.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/701.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/15847.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-f5afd42209c4",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-f5afd42209c4",
+                  "name": "Atert Bissen vs Ki Klaksvik",
+                  "streams": [
+                    {
+                      "id": "bugio-f5afd42209c4",
                       "name": "F",
                       "stream_links": []
                     }
