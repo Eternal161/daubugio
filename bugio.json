@@ -1,57 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "12:31 15/07/2026",
+  "last_updated": "12:41 15/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-b60874d0e523",
-          "name": "⚽ Bỉ vs Cuba | Nations League | 13:30 15/07",
-          "tournament": "Nations League",
-          "logo_nha": "https://img0.aiscore.com/volleyball/team/30c146391ed01570c94d91039480d18d.png!w60",
-          "logo_khach": "https://img0.aiscore.com/volleyball/team/e4c6d60341cd022b36dcc56e47238f8d.png!w60",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img0.aiscore.com/volleyball/team/30c146391ed01570c94d91039480d18d.png!w60",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-b60874d0e523",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-b60874d0e523",
-                  "name": "Bỉ vs Cuba",
-                  "streams": [
-                    {
-                      "id": "bugio-b60874d0e523",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-83ff630c0e07",
           "name": "⚽ Philippines vs Campuchia | SEA V CUP 2026 | 16:30 15/07",
@@ -448,6 +403,51 @@
                   "streams": [
                     {
                       "id": "bugio-c6d75b20c8a0",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-54c30fb43b93",
+          "name": "⚽ Universitatea Craiova vs Ml Vitebsk | UEFA Champions League | 00:30 16/07",
+          "tournament": "UEFA Champions League",
+          "logo_nha": "https://media.api-sports.io/football/teams/632.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/7808.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/632.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-54c30fb43b93",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-54c30fb43b93",
+                  "name": "Universitatea Craiova vs Ml Vitebsk",
+                  "streams": [
+                    {
+                      "id": "bugio-54c30fb43b93",
                       "name": "F",
                       "stream_links": []
                     }
