@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "17:31 15/07/2026",
+  "last_updated": "17:40 15/07/2026",
   "groups": [
     {
       "id": "live",
@@ -46,11 +46,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0d76ee8ab3",
+                          "id": "lnk-b18df55498",
                           "name": "BLV Pháo",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxl1gr4uqmtt8y41hcjwgwzdocjpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8?wsSession=fe98348b1e299f1542a9c7d2-178411148167603&wsIPSercert=6a0ed1bd9394a25ab59a0fe1e238b7d3&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfxl0gr4uqmtt8y41hcjsgyzdnctufitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8?wsSession=7c7d106456981d78de4f4a4d-178411206136212&wsIPSercert=6908ade1eab808a7fc72bec178fc446b&wsBindIP=2&wsserid=1168283323277558487"
                         }
                       ]
                     }
@@ -62,7 +62,7 @@
         },
         {
           "id": "bugio-0c5126b4df58",
-          "name": "⚽ Cheonan City vs Mokpo City | FA Cup | Đang diễn ra",
+          "name": "⚽ Cheonan City vs Mokpo City | FA Cup | Hiệp 1 - 8'",
           "tournament": "FA Cup",
           "logo_nha": "https://media.api-sports.io/football/teams/7060.png",
           "logo_khach": "https://media.api-sports.io/football/teams/7096.png",
@@ -99,11 +99,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e823bb2b98",
+                          "id": "lnk-e7299d4b3c",
                           "name": "BLV Max",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfxl1gr4uqmtt8y41hcjwgwzdocjpcjusa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=fe98348b1e299f1542a9c7d2-178411148794336&wsIPSercert=6a0ed1bd9394a25ab59a0fe1e238b7d3&wsBindIP=2&wsserid=1168176581104105640"
+                          "url": "https://tfxl0gr4uqmtt8y41hcjsgyzdnctufitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8?wsSession=d50ab20a33cd1e3fab7f76e4-178411206812255&wsIPSercert=6908ade1eab808a7fc72bec178fc446b&wsBindIP=2&wsserid=1168283323380319328"
                         }
                       ]
                     }
@@ -115,7 +115,7 @@
         },
         {
           "id": "bugio-e0d2e6fa5efb",
-          "name": "⚽ Đức vs Slovenia | Nations League | 18:00 15/07",
+          "name": "⚽ Đức vs Slovenia | Nations League | Đang diễn ra - 18:00",
           "tournament": "Nations League",
           "logo_nha": "https://img0.aiscore.com/basketball/team/58df018114526da9fa078444ba9b585f.png!w250",
           "logo_khach": "https://img0.aiscore.com/basketball/team/35ddc4d975ebf4ca72e69c453bc89d44.png!w250",
@@ -132,10 +132,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -150,7 +150,15 @@
                     {
                       "id": "bugio-e0d2e6fa5efb",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-d64ca2d2a1",
+                          "name": "BLV Chim Nhỏ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
