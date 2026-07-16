@@ -1,12 +1,463 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "15:20 16/07/2026",
+  "last_updated": "15:30 16/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
-      "channels": []
+      "channels": [
+        {
+          "id": "bugio-d4b7c7780276",
+          "name": "⚽ Indonesia vs Philippine | SEA V CUP 2026 | 16:30 16/07",
+          "tournament": "SEA V CUP 2026",
+          "logo_nha": "https://flagcdn.com/w320/id.png",
+          "logo_khach": "https://flagcdn.com/w320/ph.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://flagcdn.com/w320/id.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-d4b7c7780276",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-d4b7c7780276",
+                  "name": "Indonesia vs Philippine",
+                  "streams": [
+                    {
+                      "id": "bugio-d4b7c7780276",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-873d2f6e3b80",
+          "name": "⚽ Nhật Bản vs Canada | Nations League | 17:20 16/07",
+          "tournament": "Nations League",
+          "logo_nha": "https://flagcdn.com/w320/jp.png",
+          "logo_khach": "https://flagcdn.com/w320/ca.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://flagcdn.com/w320/jp.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-873d2f6e3b80",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-873d2f6e3b80",
+                  "name": "Nhật Bản vs Canada",
+                  "streams": [
+                    {
+                      "id": "bugio-873d2f6e3b80",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-775f3c5fda1f",
+          "name": "⚽ Ekibastuz vs Shakhter Karagandy | 1. Division | 19:00 16/07",
+          "tournament": "1. Division",
+          "logo_nha": "https://media.api-sports.io/football/teams/4551.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4566.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4551.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-775f3c5fda1f",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-775f3c5fda1f",
+                  "name": "Ekibastuz vs Shakhter Karagandy",
+                  "streams": [
+                    {
+                      "id": "bugio-775f3c5fda1f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-8999cedc1c79",
+          "name": "⚽ Al Ahed vs Al Nejmeh | Premier League | 21:30 16/07",
+          "tournament": "Premier League",
+          "logo_nha": "https://media.api-sports.io/football/teams/4567.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/4570.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4567.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-8999cedc1c79",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-8999cedc1c79",
+                  "name": "Al Ahed vs Al Nejmeh",
+                  "streams": [
+                    {
+                      "id": "bugio-8999cedc1c79",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-75c606b6bfe2",
+          "name": "⚽ Inter Turku vs Fk Sarajevo | UEFA Europa Conference League | 22:00 16/07",
+          "tournament": "UEFA Europa Conference League",
+          "logo_nha": "https://media.api-sports.io/football/teams/1164.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/679.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1164.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-75c606b6bfe2",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-75c606b6bfe2",
+                  "name": "Inter Turku vs Fk Sarajevo",
+                  "streams": [
+                    {
+                      "id": "bugio-75c606b6bfe2",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-0a12ebdc8bfc",
+          "name": "⚽ Rīgas Fs vs Glentoran | UEFA Europa Conference League | 23:30 16/07",
+          "tournament": "UEFA Europa Conference League",
+          "logo_nha": "https://media.api-sports.io/football/teams/4160.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/5352.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4160.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-0a12ebdc8bfc",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-0a12ebdc8bfc",
+                  "name": "Rīgas Fs vs Glentoran",
+                  "streams": [
+                    {
+                      "id": "bugio-0a12ebdc8bfc",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-36dde526f29f",
+          "name": "⚽ Universitatea Cluj vs Dynamo Kyiv | UEFA Europa League | 00:30 17/07",
+          "tournament": "UEFA Europa League",
+          "logo_nha": "https://media.api-sports.io/football/teams/2599.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/572.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2599.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-36dde526f29f",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-36dde526f29f",
+                  "name": "Universitatea Cluj vs Dynamo Kyiv",
+                  "streams": [
+                    {
+                      "id": "bugio-36dde526f29f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-1679a7573fec",
+          "name": "⚽ Žilina vs Hnk Hajduk Split | UEFA Europa League | 01:30 17/07",
+          "tournament": "UEFA Europa League",
+          "logo_nha": "https://media.api-sports.io/football/teams/3554.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/608.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/3554.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-1679a7573fec",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-1679a7573fec",
+                  "name": "Žilina vs Hnk Hajduk Split",
+                  "streams": [
+                    {
+                      "id": "bugio-1679a7573fec",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-a80523d2bba5",
+          "name": "⚽ Vestri vs Qarabag | UEFA Europa League | 03:00 17/07",
+          "tournament": "UEFA Europa League",
+          "logo_nha": "https://media.api-sports.io/football/teams/4165.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/556.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/4165.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-a80523d2bba5",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-a80523d2bba5",
+                  "name": "Vestri vs Qarabag",
+                  "streams": [
+                    {
+                      "id": "bugio-a80523d2bba5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-5671a2ed2faf",
+          "name": "⚽ Sarmiento Junin vs Boca Juniors | Copa Argentina | 07:45 17/07",
+          "tournament": "Copa Argentina",
+          "logo_nha": "https://media.api-sports.io/football/teams/474.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/451.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/474.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-5671a2ed2faf",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-5671a2ed2faf",
+                  "name": "Sarmiento Junin vs Boca Juniors",
+                  "streams": [
+                    {
+                      "id": "bugio-5671a2ed2faf",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
