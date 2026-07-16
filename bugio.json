@@ -1,12 +1,110 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "12:31 16/07/2026",
+  "last_updated": "12:41 16/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
+        {
+          "id": "bugio-dee6f5b8911d",
+          "name": "⚽ Thái Lan vs Myanmar | SEA V CUP 2026 | Đang diễn ra - 13:00",
+          "tournament": "SEA V CUP 2026",
+          "logo_nha": "https://flagcdn.com/w320/th.png",
+          "logo_khach": "https://flagcdn.com/w320/mm.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://flagcdn.com/w320/th.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-dee6f5b8911d",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-dee6f5b8911d",
+                  "name": "Thái Lan vs Myanmar",
+                  "streams": [
+                    {
+                      "id": "bugio-dee6f5b8911d",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d24957276c",
+                          "name": "BLV Tiểu Mèo",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxm0gr4uqmtt8y41hcjz8rzdncbofitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8?wsSession=30b1aee6d195528f042a6f87-178418047498690&wsIPSercert=fdbef2c244b4b1d9abd6b8b1be2739d0&wsBindIP=2&wsserid=1168176337061519089"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-2cba2eb9958e",
+          "name": "⚽ Bỉ vs Ý | Nations League | 13:30 16/07",
+          "tournament": "Nations League",
+          "logo_nha": "https://flagcdn.com/w320/be.png",
+          "logo_khach": "https://flagcdn.com/w320/it.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://flagcdn.com/w320/be.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-2cba2eb9958e",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-2cba2eb9958e",
+                  "name": "Bỉ vs Ý",
+                  "streams": [
+                    {
+                      "id": "bugio-2cba2eb9958e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
         {
           "id": "bugio-f4cd45e2bbc0",
           "name": "⚽ Nữ Indonesia vs Nữ Campuchia | Asean Championship Nữ | 15:45 16/07",
@@ -358,96 +456,6 @@
                   "streams": [
                     {
                       "id": "bugio-0a12ebdc8bfc",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-36dde526f29f",
-          "name": "⚽ Universitatea Cluj vs Dynamo Kyiv | UEFA Europa League | 00:30 17/07",
-          "tournament": "UEFA Europa League",
-          "logo_nha": "https://media.api-sports.io/football/teams/2599.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/572.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/2599.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-36dde526f29f",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-36dde526f29f",
-                  "name": "Universitatea Cluj vs Dynamo Kyiv",
-                  "streams": [
-                    {
-                      "id": "bugio-36dde526f29f",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "bugio-1679a7573fec",
-          "name": "⚽ Žilina vs Hnk Hajduk Split | UEFA Europa League | 01:30 17/07",
-          "tournament": "UEFA Europa League",
-          "logo_nha": "https://media.api-sports.io/football/teams/3554.png",
-          "logo_khach": "https://media.api-sports.io/football/teams/608.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/3554.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-1679a7573fec",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-1679a7573fec",
-                  "name": "Žilina vs Hnk Hajduk Split",
-                  "streams": [
-                    {
-                      "id": "bugio-1679a7573fec",
                       "name": "F",
                       "stream_links": []
                     }
