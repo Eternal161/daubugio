@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "16:01 16/07/2026",
+  "last_updated": "16:10 16/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-d4b7c7780276",
-          "name": "⚽ Indonesia vs Philippine | SEA V CUP 2026 | 16:30 16/07",
+          "name": "⚽ Indonesia vs Philippine | SEA V CUP 2026 | Đang diễn ra - 16:30",
           "tournament": "SEA V CUP 2026",
           "logo_nha": "https://flagcdn.com/w320/id.png",
           "logo_khach": "https://flagcdn.com/w320/ph.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "bugio-d4b7c7780276",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-2a2bcd4e08",
+                          "name": "BLV Pháo",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxm3gr4dymttgwanhc3sfa4urmmnc7sg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8?wsSession=14c5dab273ea36e4f549ae61-178419305859724&wsIPSercert=8e4a554bf94944ecc7dcf1e6bbfcb8b7&wsBindIP=2&wsserid=1177063474761571144"
+                        }
+                      ]
                     }
                   ]
                 }
