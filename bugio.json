@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "16:50 16/07/2026",
+  "last_updated": "17:01 16/07/2026",
   "groups": [
     {
       "id": "live",
@@ -9,7 +9,7 @@
       "channels": [
         {
           "id": "bugio-873d2f6e3b80",
-          "name": "⚽ Nhật Bản vs Canada | Nations League | 17:20 16/07",
+          "name": "⚽ Nhật Bản vs Canada | Nations League | Đang diễn ra - 17:20",
           "tournament": "Nations League",
           "logo_nha": "https://flagcdn.com/w320/jp.png",
           "logo_khach": "https://flagcdn.com/w320/ca.png",
@@ -26,10 +26,10 @@
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -44,7 +44,15 @@
                     {
                       "id": "bugio-873d2f6e3b80",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-bd895cfaf5",
+                          "name": "BLV Chim Nhỏ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfxm0gr4uqmtt8y41hcjz8rzdncbofitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8?wsSession=6dc55f48a79b9811d37124c0-178419607435059&wsIPSercert=e5547c2f76844e2b512811ca8d96b962&wsBindIP=2&wsserid=1168176337057324681"
+                        }
+                      ]
                     }
                   ]
                 }
