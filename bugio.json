@@ -1,65 +1,12 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "16:30 16/07/2026",
+  "last_updated": "16:40 16/07/2026",
   "groups": [
     {
       "id": "live",
       "name": "🔴 Live bóng đá Bù  Giờ",
       "channels": [
-        {
-          "id": "bugio-d4b7c7780276",
-          "name": "⚽ Indonesia vs Philippine | SEA V CUP 2026 | Đang diễn ra - 16:30",
-          "tournament": "SEA V CUP 2026",
-          "logo_nha": "https://flagcdn.com/w320/id.png",
-          "logo_khach": "https://flagcdn.com/w320/ph.png",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://flagcdn.com/w320/id.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "bugio-d4b7c7780276",
-              "name": "Bù  Giờ TV",
-              "contents": [
-                {
-                  "id": "bugio-d4b7c7780276",
-                  "name": "Indonesia vs Philippine",
-                  "streams": [
-                    {
-                      "id": "bugio-d4b7c7780276",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8f82952527",
-                          "name": "BLV Pháo",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfxm0gr4uqmtt8y41hcjsgyzdnpbwfitgq5djq311h6mbqjzgg3dqf3sg17uf.100ycdn.com/bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8?wsSession=7c7d106456981d78de4f4a4d-178419425642564&wsIPSercert=bd44e518c054df5221b5242cf77001c7&wsBindIP=2&wsserid=1168283323277558487"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "id": "bugio-873d2f6e3b80",
           "name": "⚽ Nhật Bản vs Canada | Nations League | 17:20 16/07",
@@ -456,6 +403,51 @@
                   "streams": [
                     {
                       "id": "bugio-5671a2ed2faf",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bugio-5783efc0f985",
+          "name": "⚽ Club Tijuana vs Tigres Uanl | Liga MX | 10:10 17/07",
+          "tournament": "Liga MX",
+          "logo_nha": "https://media.api-sports.io/football/teams/2280.png",
+          "logo_khach": "https://media.api-sports.io/football/teams/2279.png",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/2280.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "bugio-5783efc0f985",
+              "name": "Bù  Giờ TV",
+              "contents": [
+                {
+                  "id": "bugio-5783efc0f985",
+                  "name": "Club Tijuana vs Tigres Uanl",
+                  "streams": [
+                    {
+                      "id": "bugio-5783efc0f985",
                       "name": "F",
                       "stream_links": []
                     }
