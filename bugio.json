@@ -1,7 +1,7 @@
 {
   "id": "bugio",
   "name": "Bù  Giờ TV",
-  "last_updated": "15:01 16/07/2026",
+  "last_updated": "15:10 16/07/2026",
   "groups": [
     {
       "id": "live",
@@ -53,7 +53,7 @@
           ]
         },
         {
-          "id": "bugio-b417e8534c58",
+          "id": "bugio-873d2f6e3b80",
           "name": "⚽ Nhật Bản vs Canada | Nations League | 17:20 16/07",
           "tournament": "Nations League",
           "logo_nha": "https://flagcdn.com/w320/jp.png",
@@ -79,15 +79,15 @@
           ],
           "sources": [
             {
-              "id": "bugio-b417e8534c58",
+              "id": "bugio-873d2f6e3b80",
               "name": "Bù  Giờ TV",
               "contents": [
                 {
-                  "id": "bugio-b417e8534c58",
+                  "id": "bugio-873d2f6e3b80",
                   "name": "Nhật Bản vs Canada",
                   "streams": [
                     {
-                      "id": "bugio-b417e8534c58",
+                      "id": "bugio-873d2f6e3b80",
                       "name": "F",
                       "stream_links": []
                     }
